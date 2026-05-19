@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /cfa/Level%20II/4.%20Corporate%20Issuers/2_ESG_considerations_in_investment_analysis/1_Introduction/
+---
+
 ## Summary: ESG Considerations in Investment Analysis — Introduction (CFA Level II)
 
 This is a short introductory reading that sets the stage for Module 2.

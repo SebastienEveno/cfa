@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/10_analysis_of_dividend_safety/
+---
+
 ## Summary: Analysis of Dividend Safety (CFA Level II)
 
 ---
