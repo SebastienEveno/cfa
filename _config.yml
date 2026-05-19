@@ -1,0 +1,26 @@
+# Jekyll configuration for GitHub Pages
+
+# Site settings
+title: CFA Level II Study Materials
+description: Comprehensive study materials for the CFA Level II exam
+url: "https://SebastienEveno.github.io/cfa"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Exclude files from the build
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
