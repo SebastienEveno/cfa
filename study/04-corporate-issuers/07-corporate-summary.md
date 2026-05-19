@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /cfa/study/06-corporate-summary/
-prev: /cfa/study/05-dividend-vs-repurchase/
-next: /cfa/study/07-esg-introduction/
+permalink: /cfa/study/07-corporate-summary/
+prev: /cfa/study/06-dividend-safety/
+next: /cfa/study/esg/01-esg-introduction/
 ---
 
 ## Summary: Module 1 Wrap-Up — Analysis of Dividends & Share Repurchases (CFA Level II)

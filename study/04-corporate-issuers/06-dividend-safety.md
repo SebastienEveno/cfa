@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cfa/study/01-dividend-safety/
+permalink: /cfa/study/06-dividend-safety/
 next: /cfa/study/02-payout-policies/
 ---
 

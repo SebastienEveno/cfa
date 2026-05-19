@@ -2,7 +2,7 @@
 layout: page
 permalink: /cfa/study/05-dividend-vs-repurchase/
 prev: /cfa/study/04-valuation-equivalence/
-next: /cfa/study/06-corporate-summary/
+next: /cfa/study/06-dividend-safety/
 ---
 
 ## Summary: Dividend vs. Share Repurchase Decision (CFA Level II)
