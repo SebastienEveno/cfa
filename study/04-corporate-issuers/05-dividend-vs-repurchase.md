@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cfa/study/04-corporate-issuers/05-dividend-vs-repurchase/
+permalink: /study/04-corporate-issuers/05-dividend-vs-repurchase/
 prev: /cfa/study/04-corporate-issuers/04-valuation-equivalence/
 next: /cfa/study/04-corporate-issuers/06-dividend-safety/
 ---

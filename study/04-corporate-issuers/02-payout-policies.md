@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cfa/study/04-corporate-issuers/02-payout-policies/
+permalink: /study/04-corporate-issuers/02-payout-policies/
 next: /cfa/study/04-corporate-issuers/03-share-repurchases/
 ---
 
