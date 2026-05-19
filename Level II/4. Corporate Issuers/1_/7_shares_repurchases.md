@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/7_shares_repurchases/
+---
+
 ## Summary: Share Repurchases (CFA Level II)
 
 ---

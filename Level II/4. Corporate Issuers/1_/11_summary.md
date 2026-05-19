@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/11_summary/
+---
+
 ## Summary: Module 1 Wrap-Up — Analysis of Dividends & Share Repurchases (CFA Level II)
 
 This is the official CFA closing summary. Here's a condensed, exam-focused synthesis of the entire module.

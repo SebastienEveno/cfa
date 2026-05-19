@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/9_the_dividend_vs_share_repurchase_decision/
+---
+
 ## Summary: The Dividend vs. Share Repurchase Decision (CFA Level II)
 
 ---
