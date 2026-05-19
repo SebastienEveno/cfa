@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /study/04-corporate-issuers/02-esg/02-ownership-governance/
-prev: /study/04-corporate-issuers/02-esg/01-esg-introduction/
+permalink: /cfa/study/04-corporate-issuers/02-esg/02-ownership-governance/
+prev: /cfa/study/04-corporate-issuers/02-esg/01-esg-introduction/
 ---
 
 ## Summary: Ownership Structures & Corporate Governance (CFA Level II)
