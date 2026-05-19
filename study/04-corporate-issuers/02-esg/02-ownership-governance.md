@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /cfa/study/08-ownership-governance/
-prev: /cfa/study/07-esg-introduction/
+permalink: /cfa/study/09-ownership-governance/
+prev: /cfa/study/08-esg-introduction/
 ---
 
 ## Summary: Ownership Structures & Corporate Governance (CFA Level II)

@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /cfa/study/02-payout-policies/
-prev: /cfa/study/01-dividend-safety/
 next: /cfa/study/03-share-repurchases/
 ---
 

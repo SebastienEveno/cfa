@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /cfa/study/07-esg-introduction/
-prev: /cfa/study/06-corporate-summary/
-next: /cfa/study/08-ownership-governance/
+permalink: /cfa/study/04-corporate-issuers/02-esg/01-esg-introduction/
+prev: /cfa/study/04-corporate-issuers/07-corporate-summary/
+next: /cfa/study/04-corporate-issuers/02-esg/02-ownership-governance/
 ---
 
 ## Summary: ESG Considerations in Investment Analysis — Introduction (CFA Level II)
