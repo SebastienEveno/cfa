@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /study/04-corporate-issuers/03-share-repurchases/
-prev: /study/04-corporate-issuers/02-payout-policies/
-next: /study/04-corporate-issuers/04-valuation-equivalence/
+permalink: /cfa/study/04-corporate-issuers/03-share-repurchases/
+prev: /cfa/study/04-corporate-issuers/02-payout-policies/
+next: /cfa/study/04-corporate-issuers/04-valuation-equivalence/
 ---
 
 ## Summary: Share Repurchases (CFA Level II)
