@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cfa/study/04-corporate-issuers/06-dividend-safety/
+permalink: /study/04-corporate-issuers/06-dividend-safety/
 prev: /cfa/study/04-corporate-issuers/05-dividend-vs-repurchase/
 next: /cfa/study/04-corporate-issuers/07-corporate-summary/
 ---

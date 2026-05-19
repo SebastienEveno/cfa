@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cfa/study/04-corporate-issuers/07-corporate-summary/
+permalink: /study/04-corporate-issuers/07-corporate-summary/
 prev: /cfa/study/04-corporate-issuers/06-dividend-safety/
 next: /cfa/study/04-corporate-issuers/02-esg/01-esg-introduction/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cfa/study/04-corporate-issuers/02-esg/01-esg-introduction/
+permalink: /study/04-corporate-issuers/02-esg/01-esg-introduction/
 prev: /cfa/study/04-corporate-issuers/07-corporate-summary/
 next: /cfa/study/04-corporate-issuers/02-esg/02-ownership-governance/
 ---
