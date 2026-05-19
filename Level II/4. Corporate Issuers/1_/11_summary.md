@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/11_summary/
-prev: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/9_the_dividend_vs_share_repurchase_decision/
-next: /cfa/Level%20II/4.%20Corporate%20Issuers/2_ESG_considerations_in_investment_analysis/1_Introduction/
+prev: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/09_the_dividend_vs_share_repurchase_decision/
+next: /cfa/Level%20II/4.%20Corporate%20Issuers/2_ESG_considerations_in_investment_analysis/01_Introduction/
 ---
 
 ## Summary: Module 1 Wrap-Up — Analysis of Dividends & Share Repurchases (CFA Level II)
