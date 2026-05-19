@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /cfa/study/02-payout-policies/
-next: /cfa/study/03-share-repurchases/
+permalink: /cfa/study/04-corporate-issuers/02-payout-policies/
+next: /cfa/study/04-corporate-issuers/03-share-repurchases/
 ---
 
 ## Summary: Payout Policies (CFA Level II)

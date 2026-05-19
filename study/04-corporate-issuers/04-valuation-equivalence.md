@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /cfa/study/04-valuation-equivalence/
-prev: /cfa/study/03-share-repurchases/
-next: /cfa/study/05-dividend-vs-repurchase/
+permalink: /cfa/study/04-corporate-issuers/04-valuation-equivalence/
+prev: /cfa/study/04-corporate-issuers/03-share-repurchases/
+next: /cfa/study/04-corporate-issuers/05-dividend-vs-repurchase/
 ---
 
 ## Summary: Valuation Equivalence (CFA Level II)
