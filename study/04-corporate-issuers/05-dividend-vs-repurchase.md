@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /cfa/study/04-corporate-issuers/05-dividend-vs-repurchase/
-prev: /cfa/study/04-corporate-issuers/04-valuation-equivalence/
-next: /cfa/study/04-corporate-issuers/06-dividend-safety/
+permalink: /cfa/cfa/study/04-corporate-issuers/05-dividend-vs-repurchase/
+prev: /cfa/cfa/study/04-corporate-issuers/04-valuation-equivalence/
+next: /cfa/cfa/study/04-corporate-issuers/06-dividend-safety/
 ---
 
 ## Summary: Dividend vs. Share Repurchase Decision (CFA Level II)
