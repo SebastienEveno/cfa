@@ -1,28 +1,39 @@
-# CFA Level II Study Materials
+# 📚 CFA Level II Study Materials
 
-This repository contains comprehensive study materials for the CFA (Chartered Financial Analyst) Level II exam.
+Comprehensive study materials and notes for the **Chartered Financial Analyst (CFA) Level II** exam. This repository contains detailed analysis and explanations of key topics required for CFA Level II certification.
 
-## Structure
+---
 
-The materials are organized by level and topic:
+## 📖 Study Topics
 
-### Level II
-- **Corporate Issuers** - Analysis of corporate financial statements, dividends, share repurchases, and valuation
-  - Analysis of dividend safety
-  - Payout policies
-  - Share repurchases
-  - Valuation equivalence
-  - Dividend vs. share repurchase decisions
-  - Summary materials
-  
-- **ESG Considerations in Investment Analysis** - Understanding environmental, social, and governance factors
-  - Introduction to ESG
-  - Ownership structure and corporate governance effects
+### Corporate Issuers
+In-depth analysis of corporate financial management, valuation, and shareholder returns:
 
-## Usage
+- 📊 **[Analysis of Dividend Safety](Level%20II/4.%20Corporate%20Issuers/1_/10_analysis_of_dividend_safety.md)** - Evaluate dividend sustainability and safety metrics
+- 💰 **[Payout Policies](Level%20II/4.%20Corporate%20Issuers/1_/6_payout_policies.md)** - Corporate dividend and cash return policies
+- 🔄 **[Share Repurchases](Level%20II/4.%20Corporate%20Issuers/1_/7_shares_repurchases.md)** - Analysis of share buyback programs
+- ⚖️ **[Valuation Equivalence](Level%20II/4.%20Corporate%20Issuers/1_/8_valuation_equivalence.md)** - Understanding valuation principles
+- 🎯 **[Dividend vs. Share Repurchase Decision](Level%20II/4.%20Corporate%20Issuers/1_/9_the_dividend_vs_share_repurchase_decision.md)** - Comparative analysis of capital returns
+- 📝 **[Summary](Level%20II/4.%20Corporate%20Issuers/1_/11_summary.md)** - Key takeaways and review
 
-Navigate through the folders to find specific topics. Each markdown file contains detailed notes and explanations on the respective subject matter.
+### ESG Considerations in Investment Analysis
+Understanding environmental, social, and governance factors in investment decisions:
 
-## License
+- 🌱 **[Introduction to ESG](Level%20II/4.%20Corporate%20Issuers/2_ESG_considerations_in_investment_analysis/1_Introduction.md)** - ESG framework and importance
+- 🏛️ **[Ownership Structure & Corporate Governance](Level%20II/4.%20Corporate%20Issuers/2_ESG_considerations_in_investment_analysis/2_Ownership_structure_and_their_effects_oin_corporate_governance.md)** - How ownership affects governance
 
-See [LICENSE](LICENSE) file for license information.
+---
+
+## 🚀 Getting Started
+
+Browse the folders above to explore specific topics. Each markdown file contains:
+- Detailed explanations
+- Key concepts and definitions
+- Examples and case studies
+- Practice questions and insights
+
+---
+
+## 📄 License
+
+See [LICENSE](LICENSE) file for details.
