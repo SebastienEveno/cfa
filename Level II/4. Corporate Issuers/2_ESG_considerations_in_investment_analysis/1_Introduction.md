@@ -1,6 +1,8 @@
 ---
 layout: page
 permalink: /cfa/Level%20II/4.%20Corporate%20Issuers/2_ESG_considerations_in_investment_analysis/1_Introduction/
+prev: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/11_summary/
+next: /cfa/Level%20II/4.%20Corporate%20Issuers/2_ESG_considerations_in_investment_analysis/2_Ownership_structure_and_their_effects_oin_corporate_governance/
 ---
 
 ## Summary: ESG Considerations in Investment Analysis — Introduction (CFA Level II)

@@ -1,6 +1,8 @@
 ---
 layout: page
 permalink: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/8_valuation_equivalence/
+prev: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/7_shares_repurchases/
+next: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/9_the_dividend_vs_share_repurchase_decision/
 ---
 
 ## Summary: Valuation Equivalence of Cash Dividends and Share Repurchases (CFA Level II)
