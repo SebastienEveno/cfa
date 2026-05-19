@@ -20,7 +20,7 @@ In-depth analysis of corporate financial management, valuation, and shareholder 
 Understanding environmental, social, and governance factors in investment decisions:
 
 - 🌱 **[Introduction to ESG](/cfa/study/07-esg-introduction/)** - ESG framework and importance
-- 🏛️ **[Ownership Structure & Corporate Governance](/cfa/study/08-ownership-governance/)** - How ownership affects governance
+- 🏛️ **[Ownership Structure & Corporate Governance](/cfa/study/08-ownership-governance/
 
 ---
 
