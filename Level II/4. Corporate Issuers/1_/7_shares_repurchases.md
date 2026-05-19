@@ -1,6 +1,8 @@
 ---
 layout: page
 permalink: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/7_shares_repurchases/
+prev: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/6_payout_policies/
+next: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/8_valuation_equivalence/
 ---
 
 ## Summary: Share Repurchases (CFA Level II)
