@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /cfa/Level%20II/4.%20Corporate%20Issuers/2_ESG_considerations_in_investment_analysis/2_Ownership_structure_and_their_effects_oin_corporate_governance/
-prev: /cfa/Level%20II/4.%20Corporate%20Issuers/2_ESG_considerations_in_investment_analysis/1_Introduction/
+permalink: /cfa/Level%20II/4.%20Corporate%20Issuers/2_ESG_considerations_in_investment_analysis/02_Ownership_structure_and_their_effects_oin_corporate_governance/
+prev: /cfa/Level%20II/4.%20Corporate%20Issuers/2_ESG_considerations_in_investment_analysis/01_Introduction/
 ---
 
 ## Summary: Ownership Structures & Corporate Governance (CFA Level II)

@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/6_payout_policies/
+permalink: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/06_payout_policies/
 prev: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/10_analysis_of_dividend_safety/
-next: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/7_shares_repurchases/
+next: /cfa/Level%20II/4.%20Corporate%20Issuers/1_/07_shares_repurchases/
 ---
 
 ## Summary: Payout Policies (CFA Level II)
