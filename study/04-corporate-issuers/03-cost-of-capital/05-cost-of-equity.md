@@ -24,7 +24,8 @@ next: /cfa/study/04-corporate-issuers/03-cost-of-capital/06-mini-case-1/
 ### Method 1: DDM
 
 #### Constant Growth (Gordon Growth Model)
-$$\boxed{r_e = \frac{D_1}{P_0} + g}$$
+
+$$r_e = \frac{D_1}{P_0} + g$$
 
 - Simple, intuitive
 - **Requires**: publicly traded shares, stable and predictable dividends
@@ -46,7 +47,7 @@ Solve for $r_e$ using IRR calculation — incorporates near-term dividend foreca
 
 ### Method 2: Bond Yield Plus Risk Premium (BYPRP)
 
-$$\boxed{r_e = r_d + RP}$$
+$$r_e = r_d + RP$$
 
 Where:
 - $r_d$ = YTM on company's long-term debt
@@ -64,7 +65,7 @@ Where:
 
 ### Method 3: CAPM (Single-Factor)
 
-$$\boxed{r_e = r_f + \beta \times ERP}$$
+$$r_e = r_f + \beta \times \text{ERP}$$
 
 **Beta estimation** — market model regression:
 $$(r_{i,t} - r_{f,t}) = b_0 + b_1(r_{m,t} - r_{f,t}) + \varepsilon_t$$
@@ -81,7 +82,7 @@ Key analyst decisions:
 ### Method 4: Fama-French Models
 
 #### Three-Factor Model
-$$\boxed{r_e - r_f = \alpha + \beta_m(ERP) + \beta_{SMB}(SMB) + \beta_{HML}(HML)}$$
+$$r_e - r_f = \alpha + \beta_m(\text{ERP}) + \beta_{\text{SMB}}(\text{SMB}) + \beta_{\text{HML}}(\text{HML})$$
 
 | Factor | Premium | Captures |
 |--------|---------|---------|
@@ -114,7 +115,7 @@ $$r_e = 3.82\% + (1.2 \times 6.5\%) + (0.10 \times 1.8\%) + (-0.20 \times 4.0\%)
 - Owner-managed concentration risk
 
 #### Expanded CAPM
-$$\boxed{r_e = r_f + \beta_{peer} \times ERP + SP + SCRP}$$
+$$r_e = r_f + \beta_{\text{peer}} \times \text{ERP} + \text{SP} + \text{SCRP}$$
 
 Steps:
 1. Estimate $\beta_{peer}$ from comparable public companies
@@ -134,7 +135,7 @@ Steps:
 | Asset tangibility | |
 
 #### Build-Up Approach
-$$\boxed{r_e = r_f + ERP + SP + IP + SCRP}$$
+$$r_e = r_f + \text{ERP} + \text{SP} + \text{IP} + \text{SCRP}$$
 
 Where:
 - $SP$ = size premium
