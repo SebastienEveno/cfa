@@ -11,7 +11,7 @@ This is a brief introductory reading setting up Module 3.
 
 ### The WACC Formula
 
-$$\boxed{WACC = w_d r_d(1-t) + w_p r_p + w_e r_e}$$
+$$\text{WACC} = w_d r_d(1-t) + w_p r_p + w_e r_e$$
 
 | Component | Meaning |
 |-----------|---------|

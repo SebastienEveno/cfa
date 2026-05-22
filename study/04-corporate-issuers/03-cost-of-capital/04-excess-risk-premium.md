@@ -85,7 +85,7 @@ Three methods:
 
 $$r_e = \frac{D_1}{P_0} + g$$
 
-$$\boxed{ERP = \frac{D_1}{P_0} + g - r_f}$$
+$$\text{ERP} = \frac{D_1}{P_0} + g - r_f$$
 
 Where:
 - $D_1/P_0$ = forward dividend yield of broad market index
@@ -106,7 +106,7 @@ $$ERP = 1.94\% + 5.0\% - 1.63\% = 5.31\%$$
 
 #### Method 3: Grinold-Kroner Macroeconomic Model
 
-$$\boxed{ERP = [DY + \Delta(P/E) + i + g - \Delta S] - E(r_f)}$$
+$$\text{ERP} = [DY + \Delta(P/E) + i + g - \Delta S] - E(r_f)$$
 
 | Factor | Symbol | Common Proxy |
 |--------|--------|-------------|
@@ -141,11 +141,11 @@ $$ERP = \{2.2 + 0 + [1.6 + 3.0 - (-0.7)]\} - 2.5 = 5.0\%$$
 
 ### Master Formula Summary
 
-$$\boxed{ERP_{historical} = \overline{R_{market}} - \overline{R_f}}$$
+$$\text{ERP}_{\text{historical}} = \overline{R_{\text{market}}} - \overline{R_f}$$
 
-$$\boxed{ERP_{DDM} = \frac{D_1}{P_0} + g - r_f}$$
+$$\text{ERP}_{\text{DDM}} = \frac{D_1}{P_0} + g - r_f$$
 
-$$\boxed{ERP_{GK} = [DY + \Delta(P/E) + i + g - \Delta S] - r_f}$$
+$$\text{ERP}_{\text{GK}} = [DY + \Delta(P/E) + i + g - \Delta S] - r_f$$
 
 ---
 
