@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /study/04-corporate-issuers/03-cost-of-capital/06-mini-case-1/
+prev: /cfa/study/04-corporate-issuers/03-cost-of-capital/05-cost-of-equity/
+---
+
 ## Summary: Mini-Case 1 — Gretna Engines (CFA Level II)
 
 This is an integrative case applying cost of capital concepts to a real-world-style scenario. It ties together matrix pricing, cost of preferred equity, CAPM, FF5, and BYPRP.

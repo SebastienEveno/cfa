@@ -1,3 +1,10 @@
+---
+layout: page
+permalink: /study/04-corporate-issuers/03-cost-of-capital/02-cost-of-capital-factors/
+prev: /cfa/study/04-corporate-issuers/03-cost-of-capital/01-introduction/
+next: /cfa/study/04-corporate-issuers/03-cost-of-capital/03-estimating-cost-of-debt/
+---
+
 ## Summary: Cost of Capital Factors (CFA Level II)
 
 ---

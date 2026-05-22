@@ -1,3 +1,10 @@
+---
+layout: page
+permalink: /study/04-corporate-issuers/03-cost-of-capital/05-cost-of-equity/
+prev: /cfa/study/04-corporate-issuers/03-cost-of-capital/04-excess-risk-premium/
+next: /cfa/study/04-corporate-issuers/03-cost-of-capital/06-mini-case-1/
+---
+
 ## Summary: Cost of Equity — Required Return on Equity (CFA Level II)
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /study/04-corporate-issuers/03-cost-of-capital/01-introduction/
+next: /cfa/study/04-corporate-issuers/03-cost-of-capital/02-cost-of-capital-factors/
+---
+
 ## Summary: Cost of Capital — Advanced Topics Introduction (CFA Level II)
 
 This is a brief introductory reading setting up Module 3.
