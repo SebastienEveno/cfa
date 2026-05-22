@@ -1,3 +1,10 @@
+---
+layout: page
+permalink: /study/04-corporate-issuers/03-cost-of-capital/03-estimating-cost-of-debt/
+prev: /cfa/study/04-corporate-issuers/03-cost-of-capital/02-cost-of-capital-factors/
+next: /cfa/study/04-corporate-issuers/03-cost-of-capital/04-excess-risk-premium/
+---
+
 ## Summary: Estimating the Cost of Debt (CFA Level II)
 
 ---

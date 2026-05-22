@@ -1,3 +1,10 @@
+---
+layout: page
+permalink: /study/04-corporate-issuers/02-esg/03-corporate-governance-policies/
+prev: /cfa/study/04-corporate-issuers/02-esg/02-ownership-governance/
+next: /cfa/study/04-corporate-issuers/02-esg/04-identifying-esg-related-risks/
+---
+
 ## Summary: Evaluating Corporate Governance Policies & Practices (CFA Level II)
 
 ---
