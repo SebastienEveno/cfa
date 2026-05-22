@@ -1,11 +1,10 @@
 ---
 layout: page
+title: The Equity Risk Premium (ERP)
 permalink: /study/04-corporate-issuers/03-cost-of-capital/04-excess-risk-premium/
 prev: /cfa/study/04-corporate-issuers/03-cost-of-capital/03-estimating-cost-of-debt/
 next: /cfa/study/04-corporate-issuers/03-cost-of-capital/05-cost-of-equity/
 ---
-
-## Summary: The Equity Risk Premium (ERP) (CFA Level II)
 
 ---
 
