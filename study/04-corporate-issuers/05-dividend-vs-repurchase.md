@@ -1,11 +1,10 @@
 ---
 layout: page
+title: Dividend vs. Share Repurchase Decision
 permalink: /study/04-corporate-issuers/05-dividend-vs-repurchase/
 prev: /cfa/study/04-corporate-issuers/04-valuation-equivalence/
 next: /cfa/study/04-corporate-issuers/06-dividend-safety/
 ---
-
-## Summary: Dividend vs. Share Repurchase Decision (CFA Level II)
 
 When deciding between dividends and share repurchases, companies must consider several factors beyond simple valuation equivalence.
 

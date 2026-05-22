@@ -1,10 +1,9 @@
 ---
 layout: page
+title: ESG Considerations in Investment Analysis — Module 2 Wrap-Up
 permalink: /study/04-corporate-issuers/02-esg/06-summary/
 prev: /cfa/study/04-corporate-issuers/02-esg/05-evaluating-esg-related-risks/
 ---
-
-## Summary: ESG Considerations in Investment Analysis — Module 2 Wrap-Up (CFA Level II)
 
 A short closing summary. Here's the key points consolidated for exam use.
 

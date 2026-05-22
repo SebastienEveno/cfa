@@ -1,11 +1,10 @@
 ---
 layout: page
+title: Identifying ESG-Related Risks and Opportunities
 permalink: /study/04-corporate-issuers/02-esg/04-identifying-esg-related-risks/
 prev: /cfa/study/04-corporate-issuers/02-esg/03-corporate-governance-policies/
 next: /cfa/study/04-corporate-issuers/02-esg/05-evaluating-esg-related-risks/
 ---
-
-## Summary: Identifying ESG-Related Risks and Opportunities (CFA Level II)
 
 ---
 

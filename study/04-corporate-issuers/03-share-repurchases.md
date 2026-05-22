@@ -1,11 +1,10 @@
 ---
 layout: page
+title: Share Repurchases
 permalink: /study/04-corporate-issuers/03-share-repurchases/
 prev: /cfa/study/04-corporate-issuers/02-payout-policies/
 next: /cfa/study/04-corporate-issuers/04-valuation-equivalence/
 ---
-
-## Summary: Share Repurchases (CFA Level II)
 
 A buyback is when a company purchases its own shares using **corporate cash** — making it a true alternative to cash dividends.
 
