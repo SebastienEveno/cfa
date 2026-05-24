@@ -5,7 +5,7 @@ layout: null
   "results": [
     {% assign first = true %}{% for page in site.pages %}{% if page.path contains 'study/' %}{% unless first %},{% endunless %}{
       "title": "{{ page.title | default: page.name | escape }}",
-      "url": "{{ page.url }}",
+      "url": "/cfa{{ page.url }}",
       "content": {{ page.content | markdownify | strip_html | jsonify }}
     }{% assign first = false %}{% endif %}{% endfor %}
   ]
