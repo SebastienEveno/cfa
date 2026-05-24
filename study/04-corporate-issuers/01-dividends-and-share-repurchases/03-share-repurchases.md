@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Share Repurchases
-permalink: /study/04-corporate-issuers/03-share-repurchases/
-prev: /cfa/study/04-corporate-issuers/02-payout-policies/
-next: /cfa/study/04-corporate-issuers/04-valuation-equivalence/
+permalink: /study/04-corporate-issuers/01-dividends-and-share-repurchases/03-share-repurchases/
+prev: /cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/02-payout-policies/
+next: /cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/04-valuation-equivalence/
 ---
 
 A buyback is when a company purchases its own shares using **corporate cash** — making it a true alternative to cash dividends.

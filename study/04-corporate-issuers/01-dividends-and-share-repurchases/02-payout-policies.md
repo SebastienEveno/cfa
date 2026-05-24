@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Payout Policies
-permalink: /study/04-corporate-issuers/02-payout-policies/
-next: /cfa/study/04-corporate-issuers/03-share-repurchases/
+permalink: /study/04-corporate-issuers/01-dividends-and-share-repurchases/02-payout-policies/
+next: /cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/03-share-repurchases/
 ---
 
 ---
