@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Valuation Equivalence
-permalink: /study/04-corporate-issuers/04-valuation-equivalence/
-prev: /cfa/study/04-corporate-issuers/03-share-repurchases/
-next: /cfa/study/04-corporate-issuers/05-dividend-vs-repurchase/
+permalink: /study/04-corporate-issuers/01-dividends-and-share-repurchases/04-valuation-equivalence/
+prev: /cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/03-share-repurchases/
+next: /cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/05-dividend-vs-repurchase/
 ---
 
 Under equal tax treatment and equal information content, a share repurchase and a cash dividend of the same amount are **equivalent in terms of shareholder wealth**.

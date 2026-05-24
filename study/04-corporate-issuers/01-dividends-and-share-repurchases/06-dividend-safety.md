@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Analysis of Dividend Safety
-permalink: /study/04-corporate-issuers/06-dividend-safety/
-prev: /cfa/study/04-corporate-issuers/05-dividend-vs-repurchase/
-next: /cfa/study/04-corporate-issuers/07-corporate-summary/
+permalink: /study/04-corporate-issuers/01-dividends-and-share-repurchases/06-dividend-safety/
+prev: /cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/05-dividend-vs-repurchase/
+next: /cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/07-corporate-summary/
 ---
 
 ---
