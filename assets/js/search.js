@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // Fetch and initialize Lunr index
 function initSearch() {
-    fetch('{{ "/search.json" | relative_url }}')
+    fetch('{{ "/search.liquid" | relative_url }}')
         .then(response => response.json())
         .then(data => {
             searchData = data.results;
