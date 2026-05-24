@@ -29,6 +29,7 @@ minima:
 # Header navigation
 header_pages:
   - README.md
+  - search.md
   - about.md
 
 # Exclude files from the build
