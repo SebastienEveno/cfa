@@ -15,12 +15,12 @@ Comprehensive study materials and notes for the **Chartered Financial Analyst (C
 ### Corporate Issuers
 In-depth analysis of corporate financial management, valuation, and shareholder returns:
 
-- 💰 **[Payout Policies](/cfa/study/04-corporate-issuers/01-dividend-and-share-repurchases/02-payout-policies.md/)** - Corporate dividend and cash return policies
-- 🔄 **[Share Repurchases](/cfa/study/04-corporate-issuers/01-dividend-and-share-repurchases/03-share-repurchases.md/)** - Analysis of share buyback programs
-- ⚖️ **[Valuation Equivalence](/cfa/study/04-corporate-issuers/01-dividend-and-share-repurchases/04-valuation-equivalence.md/)** - Understanding valuation principles
-- 🎯 **[Dividend vs. Share Repurchase Decision](/cfa/study/04-corporate-issuers/01-dividend-and-share-repurchases/05-dividend-vs-repurchase.md/)** - Comparative analysis of capital returns
-- 📊 **[Analysis of Dividend Safety](/cfa/study/04-corporate-issuers/01-dividend-and-share-repurchases/06-dividend-safety.md/)** - Evaluate dividend sustainability and safety metrics
-- 📝 **[Summary](/cfa/study/04-corporate-issuers/01-dividend-and-share-repurchases/07-corporate-summary.md/)** - Key takeaways and review
+- 💰 **[Payout Policies](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/02-payout-policies.md/)** - Corporate dividend and cash return policies
+- 🔄 **[Share Repurchases](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/03-share-repurchases.md/)** - Analysis of share buyback programs
+- ⚖️ **[Valuation Equivalence](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/04-valuation-equivalence.md/)** - Understanding valuation principles
+- 🎯 **[Dividend vs. Share Repurchase Decision](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/05-dividend-vs-repurchase.md/)** - Comparative analysis of capital returns
+- 📊 **[Analysis of Dividend Safety](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/06-dividend-safety.md/)** - Evaluate dividend sustainability and safety metrics
+- 📝 **[Summary](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/07-corporate-summary.md/)** - Key takeaways and review
 
 #### Corporate Restructuring
 Strategic analysis of acquisitions, divestitures, spin-offs, and corporate restructuring decisions:
