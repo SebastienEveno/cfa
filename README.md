@@ -15,14 +15,14 @@ Comprehensive study materials and notes for the **Chartered Financial Analyst (C
 ### Corporate Issuers
 In-depth analysis of corporate financial management, valuation, and shareholder returns:
 
-- 💰 **[Payout Policies](/cfa/study/04-corporate-issuers/02-payout-policies.md/)** - Corporate dividend and cash return policies
-- 🔄 **[Share Repurchases](/cfa/study/04-corporate-issuers/03-share-repurchases.md/)** - Analysis of share buyback programs
-- ⚖️ **[Valuation Equivalence](/cfa/study/04-corporate-issuers/04-valuation-equivalence.md/)** - Understanding valuation principles
-- 🎯 **[Dividend vs. Share Repurchase Decision](/cfa/study/04-corporate-issuers/05-dividend-vs-repurchase.md/)** - Comparative analysis of capital returns
-- 📊 **[Analysis of Dividend Safety](/cfa/study/04-corporate-issuers/06-dividend-safety.md/)** - Evaluate dividend sustainability and safety metrics
-- 📝 **[Summary](/cfa/study/04-corporate-issuers/07-corporate-summary.md/)** - Key takeaways and review
+- 💰 **[Payout Policies](/cfa/study/04-corporate-issuers/01-dividend-and-share-repurchases/02-payout-policies.md/)** - Corporate dividend and cash return policies
+- 🔄 **[Share Repurchases](/cfa/study/04-corporate-issuers/01-dividend-and-share-repurchases/03-share-repurchases.md/)** - Analysis of share buyback programs
+- ⚖️ **[Valuation Equivalence](/cfa/study/04-corporate-issuers/01-dividend-and-share-repurchases/04-valuation-equivalence.md/)** - Understanding valuation principles
+- 🎯 **[Dividend vs. Share Repurchase Decision](/cfa/study/04-corporate-issuers/01-dividend-and-share-repurchases/05-dividend-vs-repurchase.md/)** - Comparative analysis of capital returns
+- 📊 **[Analysis of Dividend Safety](/cfa/study/04-corporate-issuers/01-dividend-and-share-repurchases/06-dividend-safety.md/)** - Evaluate dividend sustainability and safety metrics
+- 📝 **[Summary](/cfa/study/04-corporate-issuers/01-dividend-and-share-repurchases/07-corporate-summary.md/)** - Key takeaways and review
 
-### Corporate Restructuring
+#### Corporate Restructuring
 Strategic analysis of acquisitions, divestitures, spin-offs, and corporate restructuring decisions:
 
 - 📖 **[Introduction](/cfa/study/04-corporate-issuers/04-corporate-restructuring/01-introduction/)** - What is corporate restructuring
@@ -34,7 +34,7 @@ Strategic analysis of acquisitions, divestitures, spin-offs, and corporate restr
 - ⚙️ **[Evaluating Restructuring Actions](/cfa/study/04-corporate-issuers/04-corporate-restructuring/07-evaluating-restructuring-actions/)** - Cost and balance sheet restructurings
 - 📝 **[Module Summary](/cfa/study/04-corporate-issuers/04-corporate-restructuring/08-summary/)** - Corporate restructuring review
 
-### ESG Considerations in Investment Analysis
+#### ESG Considerations in Investment Analysis
 Understanding environmental, social, and governance factors in investment decisions:
 
 - 🌱 **[Introduction to ESG](/cfa/study/04-corporate-issuers/02-esg/01-esg-introduction.md/)** - ESG framework and importance
@@ -44,7 +44,7 @@ Understanding environmental, social, and governance factors in investment decisi
 - 📊 **[Evaluating ESG-Related Risks](/cfa/study/04-corporate-issuers/02-esg/05-evaluating-esg-related-risks.md/)** - Financial adjustments and valuation impact
 - 📝 **[ESG Summary](/cfa/study/04-corporate-issuers/02-esg/06-summary.md/)** - Module review and key takeaways
 
-### Cost of Capital
+#### Cost of Capital
 Advanced topics in cost of capital estimation and WACC:
 
 - 📖 **[Introduction to Cost of Capital](/cfa/study/04-corporate-issuers/03-cost-of-capital/01-introduction.md/)** - WACC framework and challenges
