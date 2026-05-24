@@ -14,15 +14,15 @@ Generates breadcrumbs based on the current page URL.
         </li>
 
         {% comment %} Parse URL parts {% endcomment %}
-        {% assign url_parts = page.url | split: '/' | where_exp: "part", "part != '' and part != 'index.html'" %}
+        {% assign url_parts = page.url | split: "/" | where_exp: "part", "part != empty and part != 'index.html'" %}
 
         {% for i in (0..url_parts.size) %}
-        {% if i < url_parts.size %} {% assign part=url_parts[i] %} {% comment %} Generate display name: remove numbers
-            and convert hyphens to spaces {% endcomment %} {% assign display_name=part | replace: '-' , ' ' |
-            regex_replace: '^\d+-' , '' | capitalize %} {% comment %} Build URL path up to this part {% endcomment %} {%
-            assign current_url="/cfa/" %} {% for j in (0..i) %} {% assign current_url=current_url | append: url_parts[j]
-            | append: "/" %} {% endfor %} {% if i==url_parts.size | minus: 1 %} {% comment %} Last item - display as
-            plain text (current page) {% endcomment %} <li style="color: #6a737d;">{{ display_name }}</li>
+        {% if i < url_parts.size %} {% assign part=url_parts[i] %} {% comment %} Generate display name: convert hyphens
+            to spaces and capitalize {% endcomment %} {% assign display_name=part | replace: "-" , " " | capitalize %}
+            {% comment %} Build URL path up to this part {% endcomment %} {% assign current_url="/cfa/" %} {% for j in
+            (0..i) %} {% assign current_url=current_url | append: url_parts[j] | append: "/" %} {% endfor %} {% if
+            i==url_parts.size | minus: 1 %} {% comment %} Last item - display as plain text (current page) {% endcomment
+            %} <li style="color: #6a737d;">{{ display_name }}</li>
             {% else %}
             {% comment %} Intermediate breadcrumb - display as link {% endcomment %}
             <li style="display: flex; align-items: center;">
