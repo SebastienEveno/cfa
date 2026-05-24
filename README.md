@@ -4,7 +4,13 @@ Comprehensive study materials and notes for the **Chartered Financial Analyst (C
 
 ---
 
-## 📖 Study Topics
+## � Quick Navigation
+
+**👉 [Search all study materials](/cfa/search/)** — Instantly find any concept, formula, or topic across all notes.
+
+---
+
+## �📖 Study Topics
 
 ### Corporate Issuers
 In-depth analysis of corporate financial management, valuation, and shareholder returns:
@@ -15,6 +21,18 @@ In-depth analysis of corporate financial management, valuation, and shareholder 
 - 🎯 **[Dividend vs. Share Repurchase Decision](/study/04-corporate-issuers/05-dividend-vs-repurchase.md/)** - Comparative analysis of capital returns
 - 📊 **[Analysis of Dividend Safety](/study/04-corporate-issuers/06-dividend-safety.md/)** - Evaluate dividend sustainability and safety metrics
 - 📝 **[Summary](/study/04-corporate-issuers/07-corporate-summary.md/)** - Key takeaways and review
+
+### Corporate Restructuring
+Strategic analysis of acquisitions, divestitures, spin-offs, and corporate restructuring decisions:
+
+- 📖 **[Introduction](/study/04-corporate-issuers/04-corporate-restructuring/01-introduction/)** - What is corporate restructuring
+- 🏢 **[Corporate Evolution & Actions](/study/04-corporate-issuers/04-corporate-restructuring/02-corporate-evolution/)** - Life cycle stages and motivations
+- 🔍 **[Evaluating Corporate Restructurings](/study/04-corporate-issuers/04-corporate-restructuring/03-evaluating-corporate-restructurings/)** - Three-step evaluation process
+- 📊 **[Modeling & Valuation](/study/04-corporate-issuers/04-corporate-restructuring/04-modeling-and-valuation/)** - Pro forma analysis and valuation methods
+- 💼 **[Evaluating Investment Actions](/study/04-corporate-issuers/04-corporate-restructuring/05-evaluating-investment-actions/)** - Acquisition analysis framework
+- 🏭 **[Evaluating Divestment Actions](/study/04-corporate-issuers/04-corporate-restructuring/06-evaluating-divesting-actions/)** - Spin-off and divestiture analysis
+- ⚙️ **[Evaluating Restructuring Actions](/study/04-corporate-issuers/04-corporate-restructuring/07-evaluating-restructuring-actions/)** - Cost and balance sheet restructurings
+- 📝 **[Module Summary](/study/04-corporate-issuers/04-corporate-restructuring/08-summary/)** - Corporate restructuring review
 
 ### ESG Considerations in Investment Analysis
 Understanding environmental, social, and governance factors in investment decisions:

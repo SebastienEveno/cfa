@@ -3,6 +3,7 @@ layout: page
 title: Mini-Case 1 — Gretna Engines
 permalink: /study/04-corporate-issuers/03-cost-of-capital/06-mini-case-1/
 prev: /cfa/study/04-corporate-issuers/03-cost-of-capital/05-cost-of-equity/
+next: /cfa/study/04-corporate-issuers/03-cost-of-capital/07-mini-case-2/
 ---
 
 This is an integrative case applying cost of capital concepts to a real-world-style scenario. It ties together matrix pricing, cost of preferred equity, CAPM, FF5, and BYPRP.
