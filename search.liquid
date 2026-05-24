@@ -3,11 +3,10 @@ layout: null
 ---
 {
   "results": [
-    {% for post in site.pages %}{% if post.path contains 'study/' and post.name != 'search.liquid' %}{
-      "title": "{{ post.title | default: post.name | escape }}",
-      "url": "{{ post.url | relative_url }}",
-      "content": {{ post.content | markdownify | strip_html | jsonify }},
-      "path": "{{ post.path }}"
+    {% for page in site.pages %}{% if page.path contains 'study/' %}{
+      "title": "{{ page.title | default: page.name | escape }}",
+      "url": "{{ page.url }}",
+      "content": {{ page.content | markdownify | strip_html | jsonify }}
     }{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}
   ]
 }

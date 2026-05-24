@@ -13,9 +13,16 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // Fetch and initialize Lunr index
 function initSearch() {
-    fetch('{{ "/search.liquid" | relative_url }}')
-        .then(response => response.json())
+    const searchUrl = '/cfa/search.liquid';
+    console.log('Fetching search index from:', searchUrl);
+    fetch(searchUrl)
+        .then(response => {
+            console.log('Fetch response status:', response.status);
+            if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+            return response.json();
+        })
         .then(data => {
+            console.log('Search data loaded:', data);
             searchData = data.results;
 
             // Build Lunr index
@@ -23,14 +30,17 @@ function initSearch() {
                 this.ref('url');
                 this.field('title', { boost: 10 });
                 this.field('content');
-                this.field('path');
 
                 searchData.forEach(item => {
                     this.add(item);
                 });
             });
+            console.log('Search index built successfully');
         })
-        .catch(error => console.error('Error loading search index:', error));
+        .catch(error => {
+            console.error('Error loading search index:', error);
+            console.error('Make sure search.liquid exists and contains valid JSON');
+        });
 }
 
 // Perform search
