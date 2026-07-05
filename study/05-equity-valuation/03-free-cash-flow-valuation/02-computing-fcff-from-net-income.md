@@ -1,3 +1,10 @@
+---
+layout: page
+title: Computing FCFF from Net Income
+permalink: /study/05-equity-valuation/03-free-cash-flow-valuation/02-computing-fcff-from-net-income/
+prev: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/01-introduction/
+next: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/03-computing-fcff-from-cash-flow-statement/
+---
 ## Summary: Computing FCFF from Net Income (CFA Level II)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Understanding the Business
+permalink: /study/05-equity-valuation/01-application-and-processes/03-understanding-the-business/
+prev: /cfa/study/05-equity-valuation/01-application-and-processes/02-applications-of-equity-valuation/
+next: /cfa/study/05-equity-valuation/01-application-and-processes/04-analysis-of-financial-reports/
+---
 ## Summary: Understanding the Business (CFA Level II)
 
 ---

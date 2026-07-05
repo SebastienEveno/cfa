@@ -21,6 +21,9 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  NODE_OPTIONS: --no-deprecation
+
 jobs:
   # Build job
   build:

@@ -1,3 +1,10 @@
+---
+layout: page
+title: The Residual Income Model
+permalink: /study/05-equity-valuation/05-residual-income-valuation/02-residual-income-model/
+prev: /cfa/study/05-equity-valuation/05-residual-income-valuation/01-introduction/
+next: /cfa/study/05-equity-valuation/05-residual-income-valuation/03-single-stage-multistage-ri/
+---
 ## Summary: The Residual Income Model (CFA Level II)
 
 ---

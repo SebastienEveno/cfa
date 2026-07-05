@@ -1,3 +1,10 @@
+---
+layout: page
+title: Calibrating the Binomial Interest Rate Tree to the Term Structure
+permalink: /study/06-fixed-income/02-arbitrage-free-valuation/04-calibrating-binomial-tree/
+prev: /cfa/study/06-fixed-income/02-arbitrage-free-valuation/03-binomial-interest-rate/
+next: /cfa/study/06-fixed-income/02-arbitrage-free-valuation/05-valuing-option-free-bond-binomial-tree/
+---
 ## Summary: Calibrating the Binomial Interest Rate Tree to the Term Structure (CFA Level II — Fixed Income)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Free Cash Flow Model Variations
+permalink: /study/05-equity-valuation/03-free-cash-flow-valuation/10-free-cash-flow-model-variations/
+prev: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/09-other-issues/
+next: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/11-two-stage-fcf-models/
+---
 ## Summary: Free Cash Flow Model Variations (CFA Level II)
 
 ---

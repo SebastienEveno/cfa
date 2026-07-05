@@ -1,3 +1,10 @@
+---
+layout: page
+title: YTM in Relation to Spot and Forward Rates
+permalink: /study/06-fixed-income/01-term-structure-dynamics/02-ytm-in-relation-to-spot-forward-rates/
+prev: /cfa/study/06-fixed-income/01-term-structure-dynamics/01-spot-and-forward-rates/
+next: /cfa/study/06-fixed-income/01-term-structure-dynamics/03-active-bond-ptf-management/
+---
 ## Summary: YTM in Relation to Spot and Forward Rates (CFA Level II — Fixed Income)
 
 ---

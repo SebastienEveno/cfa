@@ -1,3 +1,10 @@
+---
+layout: page
+title: Maturity Structure of Yield Curve Volatilities
+permalink: /study/06-fixed-income/01-term-structure-dynamics/08-yield-curve-volatilities/
+prev: /cfa/study/06-fixed-income/01-term-structure-dynamics/07-yield-curve-factor-models/
+next: /cfa/study/06-fixed-income/01-term-structure-dynamics/09-interest-rate-views/
+---
 ## Summary: Maturity Structure of Yield Curve Volatilities (CFA Level II — Fixed Income)
 
 ---

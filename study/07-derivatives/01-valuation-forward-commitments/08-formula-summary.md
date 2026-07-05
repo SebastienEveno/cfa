@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Formula Summary: Pricing and Valuation of Forward Commitments (CFA Level II — Derivatives)"
+permalink: /study/07-derivatives/01-valuation-forward-commitments/08-formula-summary/
+prev: /cfa/study/07-derivatives/01-valuation-forward-commitments/07-pricing-valuing-equity-swap-contracts/
+---
 # Formula Summary: Pricing and Valuation of Forward Commitments (CFA Level II — Derivatives)
 
 ---

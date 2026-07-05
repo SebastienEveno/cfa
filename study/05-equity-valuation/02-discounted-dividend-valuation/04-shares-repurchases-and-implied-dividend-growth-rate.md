@@ -1,3 +1,10 @@
+---
+layout: page
+title: Share Repurchases & Implied Dividend Growth Rate
+permalink: /study/05-equity-valuation/02-discounted-dividend-valuation/04-shares-repurchases-and-implied-dividend-growth-rate/
+prev: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/03-the-gordon-growth-model/
+next: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/05-gordon-growth-model-other-issues/
+---
 ## Summary: Share Repurchases & Implied Dividend Growth Rate (CFA Level II)
 
 ---

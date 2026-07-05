@@ -1,3 +1,9 @@
+---
+layout: page
+title: Spot Rates, Forward Rates, and the Forward Rate Model
+permalink: /study/06-fixed-income/01-term-structure-dynamics/01-spot-and-forward-rates/
+next: /cfa/study/06-fixed-income/01-term-structure-dynamics/02-ytm-in-relation-to-spot-forward-rates/
+---
 ## Summary: Spot Rates, Forward Rates, and the Forward Rate Model (CFA Level II — Fixed Income)
 
 ---

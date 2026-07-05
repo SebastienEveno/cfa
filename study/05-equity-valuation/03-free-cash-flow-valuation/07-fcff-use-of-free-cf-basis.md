@@ -1,3 +1,10 @@
+---
+layout: page
+title: FCFF and FCFE on a Uses-of-Free-Cash-Flow Basis
+permalink: /study/05-equity-valuation/03-free-cash-flow-valuation/07-fcff-use-of-free-cf-basis/
+prev: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/06-fcff-from-ebitda/
+next: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/08-forecasting-fcff/
+---
 ## Summary: FCFF and FCFE on a Uses-of-Free-Cash-Flow Basis (CFA Level II)
 
 ---

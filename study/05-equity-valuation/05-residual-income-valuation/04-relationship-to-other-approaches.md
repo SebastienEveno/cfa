@@ -1,3 +1,10 @@
+---
+layout: page
+title: Residual Income — Relationship to Other Approaches
+permalink: /study/05-equity-valuation/05-residual-income-valuation/04-relationship-to-other-approaches/
+prev: /cfa/study/05-equity-valuation/05-residual-income-valuation/03-single-stage-multistage-ri/
+next: /cfa/study/05-equity-valuation/05-residual-income-valuation/05-accounting-international-considerations/
+---
 ## Summary: Residual Income — Relationship to Other Approaches (CFA Level II)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Option Greeks — Gamma
+permalink: /study/07-derivatives/02-contingent-claims/15-option-greeks-gamma/
+prev: /cfa/study/07-derivatives/02-contingent-claims/14-option-greeks-delta/
+next: /cfa/study/07-derivatives/02-contingent-claims/16-option-greeks-theta/
+---
 ## Summary: Option Greeks — Gamma (CFA Level II — Derivatives)
 
 ---

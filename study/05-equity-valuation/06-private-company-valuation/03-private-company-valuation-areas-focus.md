@@ -1,3 +1,10 @@
+---
+layout: page
+title: Private Company Valuation Uses & Areas of Focus
+permalink: /study/05-equity-valuation/06-private-company-valuation/03-private-company-valuation-areas-focus/
+prev: /cfa/study/05-equity-valuation/06-private-company-valuation/02-private-vs-public-company-valuation/
+next: /cfa/study/05-equity-valuation/06-private-company-valuation/04-earnings-normalization-cf-estimation/
+---
 ## Summary: Private Company Valuation Uses & Areas of Focus (CFA Level II)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Traditional Theories of the Term Structure of Interest Rates
+permalink: /study/06-fixed-income/01-term-structure-dynamics/06-traditional-theories/
+prev: /cfa/study/06-fixed-income/01-term-structure-dynamics/05-swap-spreads/
+next: /cfa/study/06-fixed-income/01-term-structure-dynamics/07-yield-curve-factor-models/
+---
 ## Summary: Traditional Theories of the Term Structure of Interest Rates (CFA Level II — Fixed Income)
 
 ---

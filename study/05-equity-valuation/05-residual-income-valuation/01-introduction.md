@@ -1,3 +1,9 @@
+---
+layout: page
+title: Residual Income Valuation — Introduction
+permalink: /study/05-equity-valuation/05-residual-income-valuation/01-introduction/
+next: /cfa/study/05-equity-valuation/05-residual-income-valuation/02-residual-income-model/
+---
 ## Summary: Residual Income Valuation — Introduction (CFA Level II)
 
 ---

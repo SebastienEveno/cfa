@@ -1,3 +1,9 @@
+---
+layout: page
+title: Credit Analysis Models — Module 4 Wrap-Up
+permalink: /study/06-fixed-income/04-credit-analysis-models/09-summary/
+prev: /cfa/study/06-fixed-income/04-credit-analysis-models/08-securitized-debt/
+---
 ## Summary: Credit Analysis Models — Module 4 Wrap-Up (CFA Level II — Fixed Income)
 
 A closing summary consolidating the entire module for exam use.

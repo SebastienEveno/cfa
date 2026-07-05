@@ -1,3 +1,10 @@
+---
+layout: page
+title: Price/Book Value (P/B)
+permalink: /study/05-equity-valuation/04-market-based-valuation/05-price-to-book-value/
+prev: /cfa/study/05-equity-valuation/04-market-based-valuation/04-using-pe-in-valuation/
+next: /cfa/study/05-equity-valuation/04-market-based-valuation/06-price-to-sales/
+---
 ## Summary: Price/Book Value (P/B) (CFA Level II)
 
 ---

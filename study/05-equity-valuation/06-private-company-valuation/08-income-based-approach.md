@@ -1,3 +1,10 @@
+---
+layout: page
+title: Private Company Valuation — Income-Based Approach
+permalink: /study/05-equity-valuation/06-private-company-valuation/08-income-based-approach/
+prev: /cfa/study/05-equity-valuation/06-private-company-valuation/07-private-company-valuation-approaches/
+next: /cfa/study/05-equity-valuation/06-private-company-valuation/09-market-based-approach/
+---
 ## Summary: Private Company Valuation — Income-Based Approach (CFA Level II)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Credit Analysis for Securitized Debt
+permalink: /study/06-fixed-income/04-credit-analysis-models/08-securitized-debt/
+prev: /cfa/study/06-fixed-income/04-credit-analysis-models/07-term-structure-credit-spreads/
+next: /cfa/study/06-fixed-income/04-credit-analysis-models/09-summary/
+---
 ## Summary: Credit Analysis for Securitized Debt (CFA Level II — Fixed Income)
 
 ---

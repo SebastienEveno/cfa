@@ -1,3 +1,10 @@
+---
+layout: page
+title: Creating a Binomial Interest Rate Tree
+permalink: /study/06-fixed-income/02-arbitrage-free-valuation/03-binomial-interest-rate/
+prev: /cfa/study/06-fixed-income/02-arbitrage-free-valuation/02-arbitrage-free-valuation/
+next: /cfa/study/06-fixed-income/02-arbitrage-free-valuation/04-calibrating-binomial-tree/
+---
 ## Summary: Creating a Binomial Interest Rate Tree (CFA Level II — Fixed Income)
 
 ---

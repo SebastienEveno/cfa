@@ -1,3 +1,10 @@
+---
+layout: page
+title: Two-Period Binomial Model — Call Options
+permalink: /study/07-derivatives/02-contingent-claims/04-two-period-binomial-model-call/
+prev: /cfa/study/07-derivatives/02-contingent-claims/03-one-period-binomial-model/
+next: /cfa/study/07-derivatives/02-contingent-claims/05-two-period-binomial-model-put/
+---
 ## Summary: Two-Period Binomial Model — Call Options (CFA Level II — Derivatives)
 
 ---

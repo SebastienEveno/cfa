@@ -1,3 +1,10 @@
+---
+layout: page
+title: Applications of Equity Valuation
+permalink: /study/05-equity-valuation/01-application-and-processes/02-applications-of-equity-valuation/
+prev: /cfa/study/05-equity-valuation/01-application-and-processes/01-introduction/
+next: /cfa/study/05-equity-valuation/01-application-and-processes/03-understanding-the-business/
+---
 ## Summary: Applications of Equity Valuation (CFA Level II)
 
 ---

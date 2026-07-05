@@ -1,3 +1,10 @@
+---
+layout: page
+title: Pricing Equity Forwards, Futures, and Interest Rate FRAs
+permalink: /study/07-derivatives/01-valuation-forward-commitments/03-pricing-equity-fras/
+prev: /cfa/study/07-derivatives/01-valuation-forward-commitments/02-carry-arbitrage/
+next: /cfa/study/07-derivatives/01-valuation-forward-commitments/04-pricing-forward-futures-contracts/
+---
 ## Summary: Pricing Equity Forwards, Futures, and Interest Rate FRAs (CFA Level II — Derivatives)
 
 ---

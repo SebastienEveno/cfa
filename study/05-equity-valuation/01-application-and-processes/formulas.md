@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Formulas: Equity Valuation — Applications and Processes (CFA Level II)"
+permalink: /study/05-equity-valuation/01-application-and-processes/formulas/
+prev: /cfa/study/05-equity-valuation/01-application-and-processes/10-summary/
+---
 # Formulas: Equity Valuation — Applications and Processes (CFA Level II)
 
 > This module is primarily conceptual. The formulas below cover mispricing decomposition, earnings quality, and valuation adjustments.

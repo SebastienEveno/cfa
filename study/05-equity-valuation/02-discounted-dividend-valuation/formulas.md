@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Formulas: Discounted Dividend Valuation (CFA Level II)"
+permalink: /study/05-equity-valuation/02-discounted-dividend-valuation/formulas/
+prev: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/11-summary/
+---
 # Formulas: Discounted Dividend Valuation (CFA Level II)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Forecasting FCFF and FCFE
+permalink: /study/05-equity-valuation/03-free-cash-flow-valuation/08-forecasting-fcff/
+prev: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/07-fcff-use-of-free-cf-basis/
+next: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/09-other-issues/
+---
 ## Summary: Forecasting FCFF and FCFE (CFA Level II)
 
 ---

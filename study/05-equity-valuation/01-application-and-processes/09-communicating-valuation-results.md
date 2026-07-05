@@ -1,3 +1,10 @@
+---
+layout: page
+title: Communicating Valuation Results
+permalink: /study/05-equity-valuation/01-application-and-processes/09-communicating-valuation-results/
+prev: /cfa/study/05-equity-valuation/01-application-and-processes/08-analyst-role-and-responsibilities/
+next: /cfa/study/05-equity-valuation/01-application-and-processes/10-summary/
+---
 ## Summary: Communicating Valuation Results (CFA Level II)
 
 ---

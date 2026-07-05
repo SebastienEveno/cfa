@@ -1,3 +1,10 @@
+---
+layout: page
+title: Financial Determinants of Growth Rates
+permalink: /study/05-equity-valuation/02-discounted-dividend-valuation/09-financial-determinants-growth-rate/
+prev: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/08-general-modeling/
+next: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/10-financial-model-and-dividends/
+---
 ## Summary: Financial Determinants of Growth Rates (CFA Level II)
 
 ---

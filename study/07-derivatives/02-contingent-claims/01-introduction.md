@@ -1,3 +1,9 @@
+---
+layout: page
+title: Valuation of Contingent Claims — Introduction
+permalink: /study/07-derivatives/02-contingent-claims/01-introduction/
+next: /cfa/study/07-derivatives/02-contingent-claims/02-binomial-option-valuation-model/
+---
 ## Summary: Valuation of Contingent Claims — Introduction (CFA Level II — Derivatives)
 
 ---

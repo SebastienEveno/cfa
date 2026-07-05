@@ -1,3 +1,10 @@
+---
+layout: page
+title: Momentum Valuation Indicators
+permalink: /study/05-equity-valuation/04-market-based-valuation/12-momentum-valuation-indicators/
+prev: /cfa/study/05-equity-valuation/04-market-based-valuation/11-international-considerations/
+next: /cfa/study/05-equity-valuation/04-market-based-valuation/13-valuation-indicators-issues/
+---
 ## Summary: Momentum Valuation Indicators (CFA Level II)
 
 ---

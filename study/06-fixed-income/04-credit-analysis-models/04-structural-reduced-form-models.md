@@ -1,3 +1,10 @@
+---
+layout: page
+title: Structural and Reduced-Form Credit Models
+permalink: /study/06-fixed-income/04-credit-analysis-models/04-structural-reduced-form-models/
+prev: /cfa/study/06-fixed-income/04-credit-analysis-models/03-credit-scores-credit-ratings/
+next: /cfa/study/06-fixed-income/04-credit-analysis-models/05-valuying-risky-bonds/
+---
 ## Summary: Structural and Reduced-Form Credit Models (CFA Level II — Fixed Income)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Equity Valuation — Module 1 Wrap-Up
+permalink: /study/05-equity-valuation/01-application-and-processes/10-summary/
+prev: /cfa/study/05-equity-valuation/01-application-and-processes/09-communicating-valuation-results/
+next: /cfa/study/05-equity-valuation/01-application-and-processes/formulas/
+---
 ## Summary: Equity Valuation — Module 1 Wrap-Up (CFA Level II)
 
 A closing summary consolidating the entire module for exam use.

@@ -1,3 +1,9 @@
+---
+layout: page
+title: The Arbitrage-Free Valuation Framework — Module 2 Wrap-Up
+permalink: /study/06-fixed-income/02-arbitrage-free-valuation/09-summary/
+prev: /cfa/study/06-fixed-income/02-arbitrage-free-valuation/08-term-structure-models/
+---
 ## Summary: The Arbitrage-Free Valuation Framework — Module 2 Wrap-Up (CFA Level II — Fixed Income)
 
 A closing summary consolidating the entire module for exam use.

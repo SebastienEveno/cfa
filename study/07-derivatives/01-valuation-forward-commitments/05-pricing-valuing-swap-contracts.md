@@ -1,3 +1,10 @@
+---
+layout: page
+title: Pricing and Valuing Interest Rate Swap Contracts
+permalink: /study/07-derivatives/01-valuation-forward-commitments/05-pricing-valuing-swap-contracts/
+prev: /cfa/study/07-derivatives/01-valuation-forward-commitments/04-pricing-forward-futures-contracts/
+next: /cfa/study/07-derivatives/01-valuation-forward-commitments/06-pricing-valuing-currency-swaps/
+---
 ## Summary: Pricing and Valuing Interest Rate Swap Contracts (CFA Level II — Derivatives)
 
 ---

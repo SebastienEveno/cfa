@@ -1,3 +1,9 @@
+---
+layout: page
+title: Free Cash Flow Valuation — Module 3 Wrap-Up
+permalink: /study/05-equity-valuation/03-free-cash-flow-valuation/15-summary/
+prev: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/14-non-operating-assets-firm-value/
+---
 ## Summary: Free Cash Flow Valuation — Module 3 Wrap-Up (CFA Level II)
 
 A closing summary consolidating the entire FCF valuation module for exam use.

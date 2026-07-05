@@ -1,3 +1,8 @@
+---
+layout: page
+title: Bonds with Embedded Options — Introduction
+permalink: /study/06-fixed-income/03-valuation-with-embedded-options/01-introduction/
+---
 ## Summary: Bonds with Embedded Options — Introduction (CFA Level II — Fixed Income)
 
 ---

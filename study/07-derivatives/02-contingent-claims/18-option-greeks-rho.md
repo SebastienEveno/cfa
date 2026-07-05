@@ -1,3 +1,10 @@
+---
+layout: page
+title: Option Greeks — Rho
+permalink: /study/07-derivatives/02-contingent-claims/18-option-greeks-rho/
+prev: /cfa/study/07-derivatives/02-contingent-claims/17-option-greeks-vega/
+next: /cfa/study/07-derivatives/02-contingent-claims/19-implied-volatility/
+---
 ## Summary: Option Greeks — Rho (CFA Level II — Derivatives)
 
 ---

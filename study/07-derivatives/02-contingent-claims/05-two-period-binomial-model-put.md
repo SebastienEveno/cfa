@@ -1,3 +1,10 @@
+---
+layout: page
+title: Two-Period Binomial Model — American-Style Put Options
+permalink: /study/07-derivatives/02-contingent-claims/05-two-period-binomial-model-put/
+prev: /cfa/study/07-derivatives/02-contingent-claims/04-two-period-binomial-model-call/
+next: /cfa/study/07-derivatives/02-contingent-claims/06-two-binomial-model-dividends/
+---
 ## Summary: Two-Period Binomial Model — American-Style Put Options (CFA Level II — Derivatives)
 
 ---

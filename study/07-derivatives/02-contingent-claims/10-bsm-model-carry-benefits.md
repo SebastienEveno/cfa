@@ -1,3 +1,10 @@
+---
+layout: page
+title: BSM Model with Carry Benefits — Equities and Currencies
+permalink: /study/07-derivatives/02-contingent-claims/10-bsm-model-carry-benefits/
+prev: /cfa/study/07-derivatives/02-contingent-claims/09-bsm-model-components/
+next: /cfa/study/07-derivatives/02-contingent-claims/11-black-option-valuation-model/
+---
 ## Summary: BSM Model with Carry Benefits — Equities and Currencies (CFA Level II — Derivatives)
 
 ---

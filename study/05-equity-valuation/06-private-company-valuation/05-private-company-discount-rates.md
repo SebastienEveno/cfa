@@ -1,3 +1,10 @@
+---
+layout: page
+title: Private Company Discount Rates & Required Returns
+permalink: /study/05-equity-valuation/06-private-company-valuation/05-private-company-discount-rates/
+prev: /cfa/study/05-equity-valuation/06-private-company-valuation/04-earnings-normalization-cf-estimation/
+next: /cfa/study/05-equity-valuation/06-private-company-valuation/06-valuation-discounts-and-premiums/
+---
 ## Summary: Private Company Discount Rates & Required Returns (CFA Level II)
 
 ---

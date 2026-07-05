@@ -1,3 +1,10 @@
+---
+layout: page
+title: Other Enterprise Value Multiples
+permalink: /study/05-equity-valuation/04-market-based-valuation/10-other-ev-multiples/
+prev: /cfa/study/05-equity-valuation/04-market-based-valuation/09-entreprise-value-to-ebitda/
+next: /cfa/study/05-equity-valuation/04-market-based-valuation/11-international-considerations/
+---
 ## Summary: Other Enterprise Value Multiples (CFA Level II)
 
 ---

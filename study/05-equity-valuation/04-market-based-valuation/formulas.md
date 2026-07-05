@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Formulas: Market-Based Valuation (CFA Level II)"
+permalink: /study/05-equity-valuation/04-market-based-valuation/formulas/
+prev: /cfa/study/05-equity-valuation/04-market-based-valuation/14-summary/
+---
 # Formulas: Market-Based Valuation (CFA Level II)
 
 ---

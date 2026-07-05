@@ -1,3 +1,10 @@
+---
+layout: page
+title: General Modeling & Estimating Required Return Using Any DDM
+permalink: /study/05-equity-valuation/02-discounted-dividend-valuation/08-general-modeling/
+prev: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/07-h-model-and-3-stage-ddm/
+next: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/09-financial-determinants-growth-rate/
+---
 ## Summary: General Modeling & Estimating Required Return Using Any DDM (CFA Level II)
 
 ---

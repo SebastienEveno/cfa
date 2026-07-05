@@ -1,3 +1,10 @@
+---
+layout: page
+title: The Dividend Discount Model
+permalink: /study/05-equity-valuation/02-discounted-dividend-valuation/02-dividend-discount-model/
+prev: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/01-introduction/
+next: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/03-the-gordon-growth-model/
+---
 ## Summary: The Dividend Discount Model (CFA Level II)
 
 ---

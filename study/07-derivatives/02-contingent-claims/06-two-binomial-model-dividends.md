@@ -1,3 +1,10 @@
+---
+layout: page
+title: Two-Period Binomial Model — Role of Dividends and Comprehensive Exercise
+permalink: /study/07-derivatives/02-contingent-claims/06-two-binomial-model-dividends/
+prev: /cfa/study/07-derivatives/02-contingent-claims/05-two-period-binomial-model-put/
+next: /cfa/study/07-derivatives/02-contingent-claims/07-interest-rate-options/
+---
 ## Summary: Two-Period Binomial Model — Role of Dividends and Comprehensive Exercise (CFA Level II — Derivatives)
 
 ---

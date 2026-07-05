@@ -1,3 +1,10 @@
+---
+layout: page
+title: Public vs. Private Company Valuation
+permalink: /study/05-equity-valuation/06-private-company-valuation/02-private-vs-public-company-valuation/
+prev: /cfa/study/05-equity-valuation/06-private-company-valuation/01-introduction/
+next: /cfa/study/05-equity-valuation/06-private-company-valuation/03-private-company-valuation-areas-focus/
+---
 ## Summary: Public vs. Private Company Valuation (CFA Level II)
 
 ---

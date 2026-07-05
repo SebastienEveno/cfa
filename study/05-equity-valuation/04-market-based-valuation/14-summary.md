@@ -1,3 +1,10 @@
+---
+layout: page
+title: Market-Based Valuation — Module 4 Wrap-Up
+permalink: /study/05-equity-valuation/04-market-based-valuation/14-summary/
+prev: /cfa/study/05-equity-valuation/04-market-based-valuation/13-valuation-indicators-issues/
+next: /cfa/study/05-equity-valuation/04-market-based-valuation/formulas/
+---
 ## Summary: Market-Based Valuation — Module 4 Wrap-Up (CFA Level II)
 
 A closing summary consolidating the entire module for exam use.

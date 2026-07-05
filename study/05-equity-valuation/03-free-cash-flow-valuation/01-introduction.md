@@ -1,3 +1,9 @@
+---
+layout: page
+title: Free Cash Flow Valuation — Introduction
+permalink: /study/05-equity-valuation/03-free-cash-flow-valuation/01-introduction/
+next: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/02-computing-fcff-from-net-income/
+---
 ## Summary: Free Cash Flow Valuation — Introduction (CFA Level II)
 
 ---

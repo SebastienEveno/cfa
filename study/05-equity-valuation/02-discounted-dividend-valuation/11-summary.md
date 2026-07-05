@@ -1,3 +1,10 @@
+---
+layout: page
+title: Discounted Dividend Valuation — Module 2 Wrap-Up
+permalink: /study/05-equity-valuation/02-discounted-dividend-valuation/11-summary/
+prev: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/10-financial-model-and-dividends/
+next: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/formulas/
+---
 ## Summary: Discounted Dividend Valuation — Module 2 Wrap-Up (CFA Level II)
 
 A closing summary consolidating the entire module for exam use.

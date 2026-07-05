@@ -1,3 +1,10 @@
+---
+layout: page
+title: The Gordon Growth Model
+permalink: /study/05-equity-valuation/02-discounted-dividend-valuation/03-the-gordon-growth-model/
+prev: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/02-dividend-discount-model/
+next: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/04-shares-repurchases-and-implied-dividend-growth-rate/
+---
 ## Summary: The Gordon Growth Model (CFA Level II)
 
 ---

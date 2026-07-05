@@ -1,3 +1,10 @@
+---
+layout: page
+title: Financial Models and Dividends
+permalink: /study/05-equity-valuation/02-discounted-dividend-valuation/10-financial-model-and-dividends/
+prev: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/09-financial-determinants-growth-rate/
+next: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/11-summary/
+---
 ## Summary: Financial Models and Dividends (CFA Level II)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Valuation Indicators — Issues in Practice
+permalink: /study/05-equity-valuation/04-market-based-valuation/13-valuation-indicators-issues/
+prev: /cfa/study/05-equity-valuation/04-market-based-valuation/12-momentum-valuation-indicators/
+next: /cfa/study/05-equity-valuation/04-market-based-valuation/14-summary/
+---
 ## Summary: Valuation Indicators — Issues in Practice (CFA Level II)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Selecting the Appropriate Valuation Method
+permalink: /study/05-equity-valuation/01-application-and-processes/06-selecting-the-appropriate-valuation-method/
+prev: /cfa/study/05-equity-valuation/01-application-and-processes/05-considerations-in-using-accounting-info/
+next: /cfa/study/05-equity-valuation/01-application-and-processes/07-issues-in-model-selection-and-interpretation/
+---
 ## Summary: Selecting the Appropriate Valuation Method (CFA Level II)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: The Swap Rate Curve
+permalink: /study/06-fixed-income/01-term-structure-dynamics/04-swap-rate-curve/
+prev: /cfa/study/06-fixed-income/01-term-structure-dynamics/03-active-bond-ptf-management/
+next: /cfa/study/06-fixed-income/01-term-structure-dynamics/05-swap-spreads/
+---
 ## Summary: The Swap Rate Curve (CFA Level II — Fixed Income)
 
 ---

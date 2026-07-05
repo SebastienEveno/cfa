@@ -1,3 +1,10 @@
+---
+layout: page
+title: Gordon Growth Model — Other Issues
+permalink: /study/05-equity-valuation/02-discounted-dividend-valuation/05-gordon-growth-model-other-issues/
+prev: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/04-shares-repurchases-and-implied-dividend-growth-rate/
+next: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/06-multistage-ddm/
+---
 ## Summary: Gordon Growth Model — Other Issues (CFA Level II)
 
 ---

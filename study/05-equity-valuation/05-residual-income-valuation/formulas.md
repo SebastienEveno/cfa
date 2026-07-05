@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Formulas: Residual Income Valuation (CFA Level II)"
+permalink: /study/05-equity-valuation/05-residual-income-valuation/formulas/
+prev: /cfa/study/05-equity-valuation/05-residual-income-valuation/05-accounting-international-considerations/
+---
 # Formulas: Residual Income Valuation (CFA Level II)
 
 ---

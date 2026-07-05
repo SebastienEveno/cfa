@@ -1,3 +1,10 @@
+---
+layout: page
+title: Price/Earnings — The Basics
+permalink: /study/05-equity-valuation/04-market-based-valuation/02-price-to-earnings-basics/
+prev: /cfa/study/05-equity-valuation/04-market-based-valuation/01-introduction/
+next: /cfa/study/05-equity-valuation/04-market-based-valuation/04-using-pe-in-valuation/
+---
 ## Summary: Price/Earnings — The Basics (CFA Level II)
 
 ---
