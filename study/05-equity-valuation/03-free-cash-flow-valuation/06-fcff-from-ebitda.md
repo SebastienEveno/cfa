@@ -1,3 +1,10 @@
+---
+layout: page
+title: Finding FCFF and FCFE from EBIT or EBITDA
+permalink: /study/05-equity-valuation/03-free-cash-flow-valuation/06-fcff-from-ebitda/
+prev: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/05-computing-fcfe-from-fcff/
+next: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/07-fcff-use-of-free-cf-basis/
+---
 ## Summary: Finding FCFF and FCFE from EBIT or EBITDA (CFA Level II)
 
 ---

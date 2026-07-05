@@ -1,3 +1,10 @@
+---
+layout: page
+title: Other Issues in Free Cash Flow Analysis
+permalink: /study/05-equity-valuation/03-free-cash-flow-valuation/09-other-issues/
+prev: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/08-forecasting-fcff/
+next: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/10-free-cash-flow-model-variations/
+---
 ## Summary: Other Issues in Free Cash Flow Analysis (CFA Level II)
 
 ---

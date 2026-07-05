@@ -1,3 +1,10 @@
+---
+layout: page
+title: Price/Dividends and Dividend Yield
+permalink: /study/05-equity-valuation/04-market-based-valuation/08-price-to-dividends/
+prev: /cfa/study/05-equity-valuation/04-market-based-valuation/07-price-to-cashflow/
+next: /cfa/study/05-equity-valuation/04-market-based-valuation/09-entreprise-value-to-ebitda/
+---
 ## Summary: Price/Dividends and Dividend Yield (CFA Level II)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Analysis of Financial Reports & Sources of Information
+permalink: /study/05-equity-valuation/01-application-and-processes/04-analysis-of-financial-reports/
+prev: /cfa/study/05-equity-valuation/01-application-and-processes/03-understanding-the-business/
+next: /cfa/study/05-equity-valuation/01-application-and-processes/05-considerations-in-using-accounting-info/
+---
 ## Summary: Analysis of Financial Reports & Sources of Information (CFA Level II)
 
 ---

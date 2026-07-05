@@ -1,3 +1,10 @@
+---
+layout: page
+title: Computing FCFE from FCFF
+permalink: /study/05-equity-valuation/03-free-cash-flow-valuation/05-computing-fcfe-from-fcff/
+prev: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/04-additional-consideration/
+next: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/06-fcff-from-ebitda/
+---
 ## Summary: Computing FCFE from FCFF (CFA Level II)
 
 ---

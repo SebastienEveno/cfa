@@ -1,3 +1,10 @@
+---
+layout: page
+title: Using P/E in Valuation
+permalink: /study/05-equity-valuation/04-market-based-valuation/04-using-pe-in-valuation/
+prev: /cfa/study/05-equity-valuation/04-market-based-valuation/02-price-to-earnings-basics/
+next: /cfa/study/05-equity-valuation/04-market-based-valuation/05-price-to-book-value/
+---
 ## Summary: Using P/E in Valuation (CFA Level II)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Credit Scores and Credit Ratings
+permalink: /study/06-fixed-income/04-credit-analysis-models/03-credit-scores-credit-ratings/
+prev: /cfa/study/06-fixed-income/04-credit-analysis-models/02-modeling-credit-risk/
+next: /cfa/study/06-fixed-income/04-credit-analysis-models/04-structural-reduced-form-models/
+---
 ## Summary: Credit Scores and Credit Ratings (CFA Level II — Fixed Income)
 
 ---

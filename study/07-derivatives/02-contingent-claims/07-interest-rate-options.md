@@ -1,3 +1,10 @@
+---
+layout: page
+title: Interest Rate Options and the Multiperiod Binomial Model
+permalink: /study/07-derivatives/02-contingent-claims/07-interest-rate-options/
+prev: /cfa/study/07-derivatives/02-contingent-claims/06-two-binomial-model-dividends/
+next: /cfa/study/07-derivatives/02-contingent-claims/08-BSM-option-valuation-model/
+---
 ## Summary: Interest Rate Options and the Multiperiod Binomial Model (CFA Level II — Derivatives)
 
 ---

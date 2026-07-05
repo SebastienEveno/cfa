@@ -1,3 +1,9 @@
+---
+layout: page
+title: Private Company Valuation — Introduction
+permalink: /study/05-equity-valuation/06-private-company-valuation/01-introduction/
+next: /cfa/study/05-equity-valuation/06-private-company-valuation/02-private-vs-public-company-valuation/
+---
 ## Summary: Private Company Valuation — Introduction (CFA Level II)
 
 ---

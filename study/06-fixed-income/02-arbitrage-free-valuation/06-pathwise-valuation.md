@@ -1,3 +1,10 @@
+---
+layout: page
+title: Valuing an Option-Free Bond with Pathwise Valuation
+permalink: /study/06-fixed-income/02-arbitrage-free-valuation/06-pathwise-valuation/
+prev: /cfa/study/06-fixed-income/02-arbitrage-free-valuation/05-valuing-option-free-bond-binomial-tree/
+next: /cfa/study/06-fixed-income/02-arbitrage-free-valuation/07-monte-carlo-method/
+---
 ## Summary: Valuing an Option-Free Bond with Pathwise Valuation (CFA Level II — Fixed Income)
 
 ---

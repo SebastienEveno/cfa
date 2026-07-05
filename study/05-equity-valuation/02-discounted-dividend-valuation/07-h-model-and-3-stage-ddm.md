@@ -1,3 +1,10 @@
+---
+layout: page
+title: H-Model and Three-Stage Dividend Discount Models
+permalink: /study/05-equity-valuation/02-discounted-dividend-valuation/07-h-model-and-3-stage-ddm/
+prev: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/06-multistage-ddm/
+next: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/08-general-modeling/
+---
 ## Summary: H-Model and Three-Stage Dividend Discount Models (CFA Level II)
 
 ---

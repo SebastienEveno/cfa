@@ -1,3 +1,8 @@
+---
+layout: page
+title: Credit Default Swaps — Basic Definitions and Concepts
+permalink: /study/06-fixed-income/05-credit-default-swaps/02-basic-definitions/
+---
 ## Summary: Credit Default Swaps — Basic Definitions and Concepts (CFA Level II — Fixed Income)
 
 ---

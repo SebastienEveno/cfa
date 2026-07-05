@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Formula Summary: Valuation of Contingent Claims (CFA Level II — Derivatives)"
+permalink: /study/07-derivatives/02-contingent-claims/21-formula-summary/
+prev: /cfa/study/07-derivatives/02-contingent-claims/19-implied-volatility/
+---
 # Formula Summary: Valuation of Contingent Claims (CFA Level II — Derivatives)
 
 ---

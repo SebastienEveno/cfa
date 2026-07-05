@@ -1,3 +1,10 @@
+---
+layout: page
+title: Carry Arbitrage Model
+permalink: /study/07-derivatives/01-valuation-forward-commitments/02-carry-arbitrage/
+prev: /cfa/study/07-derivatives/01-valuation-forward-commitments/01-introduction/
+next: /cfa/study/07-derivatives/01-valuation-forward-commitments/03-pricing-equity-fras/
+---
 ## Summary: Carry Arbitrage Model (CFA Level II — Derivatives)
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Term Structure and Interest Rate Dynamics — Module 1 Wrap-Up
+permalink: /study/06-fixed-income/01-term-structure-dynamics/10-summary/
+prev: /cfa/study/06-fixed-income/01-term-structure-dynamics/09-interest-rate-views/
+---
 ## Summary: Term Structure and Interest Rate Dynamics — Module 1 Wrap-Up (CFA Level II — Fixed Income)
 
 A closing summary consolidating the entire module for exam use.

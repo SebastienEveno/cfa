@@ -1,3 +1,10 @@
+---
+layout: page
+title: The Monte Carlo Method
+permalink: /study/06-fixed-income/02-arbitrage-free-valuation/07-monte-carlo-method/
+prev: /cfa/study/06-fixed-income/02-arbitrage-free-valuation/06-pathwise-valuation/
+next: /cfa/study/06-fixed-income/02-arbitrage-free-valuation/08-term-structure-models/
+---
 ## Summary: The Monte Carlo Method (CFA Level II — Fixed Income)
 
 ---

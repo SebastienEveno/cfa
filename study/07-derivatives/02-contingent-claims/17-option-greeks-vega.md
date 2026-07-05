@@ -1,3 +1,10 @@
+---
+layout: page
+title: Option Greeks — Vega
+permalink: /study/07-derivatives/02-contingent-claims/17-option-greeks-vega/
+prev: /cfa/study/07-derivatives/02-contingent-claims/16-option-greeks-theta/
+next: /cfa/study/07-derivatives/02-contingent-claims/18-option-greeks-rho/
+---
 ## Summary: Option Greeks — Vega (CFA Level II — Derivatives)
 
 ---

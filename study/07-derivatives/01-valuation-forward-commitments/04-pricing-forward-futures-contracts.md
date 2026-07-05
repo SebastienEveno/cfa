@@ -1,3 +1,10 @@
+---
+layout: page
+title: Pricing Fixed-Income Forward and Futures Contracts
+permalink: /study/07-derivatives/01-valuation-forward-commitments/04-pricing-forward-futures-contracts/
+prev: /cfa/study/07-derivatives/01-valuation-forward-commitments/03-pricing-equity-fras/
+next: /cfa/study/07-derivatives/01-valuation-forward-commitments/05-pricing-valuing-swap-contracts/
+---
 ## Summary: Pricing Fixed-Income Forward and Futures Contracts (CFA Level II — Derivatives)
 
 ---

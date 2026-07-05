@@ -1,3 +1,10 @@
+---
+layout: page
+title: The Analyst's Role and Responsibilities
+permalink: /study/05-equity-valuation/01-application-and-processes/08-analyst-role-and-responsibilities/
+prev: /cfa/study/05-equity-valuation/01-application-and-processes/07-issues-in-model-selection-and-interpretation/
+next: /cfa/study/05-equity-valuation/01-application-and-processes/09-communicating-valuation-results/
+---
 ## Summary: The Analyst's Role and Responsibilities (CFA Level II)
 
 ---

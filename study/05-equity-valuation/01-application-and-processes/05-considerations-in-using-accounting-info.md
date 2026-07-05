@@ -1,3 +1,10 @@
+---
+layout: page
+title: Considerations in Using Accounting Information
+permalink: /study/05-equity-valuation/01-application-and-processes/05-considerations-in-using-accounting-info/
+prev: /cfa/study/05-equity-valuation/01-application-and-processes/04-analysis-of-financial-reports/
+next: /cfa/study/05-equity-valuation/01-application-and-processes/06-selecting-the-appropriate-valuation-method/
+---
 ## Summary: Considerations in Using Accounting Information (CFA Level II)
 
 ---

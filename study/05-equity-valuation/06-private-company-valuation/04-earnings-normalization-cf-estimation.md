@@ -1,3 +1,10 @@
+---
+layout: page
+title: Earnings Normalization & Cash Flow Estimation
+permalink: /study/05-equity-valuation/06-private-company-valuation/04-earnings-normalization-cf-estimation/
+prev: /cfa/study/05-equity-valuation/06-private-company-valuation/03-private-company-valuation-areas-focus/
+next: /cfa/study/05-equity-valuation/06-private-company-valuation/05-private-company-discount-rates/
+---
 ## Summary: Earnings Normalization & Cash Flow Estimation (CFA Level II)
 
 ---

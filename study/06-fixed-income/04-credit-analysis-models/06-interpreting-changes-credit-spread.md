@@ -1,3 +1,10 @@
+---
+layout: page
+title: Interpreting Changes in Credit Spreads
+permalink: /study/06-fixed-income/04-credit-analysis-models/06-interpreting-changes-credit-spread/
+prev: /cfa/study/06-fixed-income/04-credit-analysis-models/05-valuying-risky-bonds/
+next: /cfa/study/06-fixed-income/04-credit-analysis-models/07-term-structure-credit-spreads/
+---
 ## Summary: Interpreting Changes in Credit Spreads (CFA Level II — Fixed Income)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Single-Stage and Multistage Residual Income Valuation
+permalink: /study/05-equity-valuation/05-residual-income-valuation/03-single-stage-multistage-ri/
+prev: /cfa/study/05-equity-valuation/05-residual-income-valuation/02-residual-income-model/
+next: /cfa/study/05-equity-valuation/05-residual-income-valuation/04-relationship-to-other-approaches/
+---
 ## Summary: Single-Stage and Multistage Residual Income Valuation (CFA Level II)
 
 ---

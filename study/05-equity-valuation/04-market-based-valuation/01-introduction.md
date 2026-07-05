@@ -1,3 +1,9 @@
+---
+layout: page
+title: Market-Based Valuation — Introduction to Price & Enterprise Value Multiples
+permalink: /study/05-equity-valuation/04-market-based-valuation/01-introduction/
+next: /cfa/study/05-equity-valuation/04-market-based-valuation/02-price-to-earnings-basics/
+---
 ## Summary: Market-Based Valuation — Introduction to Price & Enterprise Value Multiples (CFA Level II)
 
 ---

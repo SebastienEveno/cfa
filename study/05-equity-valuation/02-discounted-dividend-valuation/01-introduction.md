@@ -1,3 +1,9 @@
+---
+layout: page
+title: Discounted Dividend Valuation — Introduction
+permalink: /study/05-equity-valuation/02-discounted-dividend-valuation/01-introduction/
+next: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/02-dividend-discount-model/
+---
 ## Summary: Discounted Dividend Valuation — Introduction (CFA Level II)
 
 ---

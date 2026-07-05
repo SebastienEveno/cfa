@@ -1,3 +1,10 @@
+---
+layout: page
+title: Yield Curve Factor Models
+permalink: /study/06-fixed-income/01-term-structure-dynamics/07-yield-curve-factor-models/
+prev: /cfa/study/06-fixed-income/01-term-structure-dynamics/06-traditional-theories/
+next: /cfa/study/06-fixed-income/01-term-structure-dynamics/08-yield-curve-volatilities/
+---
 ## Summary: Yield Curve Factor Models (CFA Level II — Fixed Income)
 
 ---

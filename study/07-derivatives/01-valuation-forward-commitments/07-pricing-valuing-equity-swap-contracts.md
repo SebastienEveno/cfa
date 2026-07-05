@@ -1,3 +1,10 @@
+---
+layout: page
+title: Pricing and Valuing Equity Swap Contracts
+permalink: /study/07-derivatives/01-valuation-forward-commitments/07-pricing-valuing-equity-swap-contracts/
+prev: /cfa/study/07-derivatives/01-valuation-forward-commitments/06-pricing-valuing-currency-swaps/
+next: /cfa/study/07-derivatives/01-valuation-forward-commitments/08-formula-summary/
+---
 ## Summary: Pricing and Valuing Equity Swap Contracts (CFA Level II — Derivatives)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Enterprise Value/EBITDA
+permalink: /study/05-equity-valuation/04-market-based-valuation/09-entreprise-value-to-ebitda/
+prev: /cfa/study/05-equity-valuation/04-market-based-valuation/08-price-to-dividends/
+next: /cfa/study/05-equity-valuation/04-market-based-valuation/10-other-ev-multiples/
+---
 ## Summary: Enterprise Value/EBITDA (CFA Level II)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Term Structure Models
+permalink: /study/06-fixed-income/02-arbitrage-free-valuation/08-term-structure-models/
+prev: /cfa/study/06-fixed-income/02-arbitrage-free-valuation/07-monte-carlo-method/
+next: /cfa/study/06-fixed-income/02-arbitrage-free-valuation/09-summary/
+---
 ## Summary: Term Structure Models (CFA Level II — Fixed Income)
 
 ---

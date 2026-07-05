@@ -1,3 +1,10 @@
+---
+layout: page
+title: Valuation Discounts and Premiums
+permalink: /study/05-equity-valuation/06-private-company-valuation/06-valuation-discounts-and-premiums/
+prev: /cfa/study/05-equity-valuation/06-private-company-valuation/05-private-company-discount-rates/
+next: /cfa/study/05-equity-valuation/06-private-company-valuation/07-private-company-valuation-approaches/
+---
 ## Summary: Valuation Discounts and Premiums (CFA Level II)
 
 ---

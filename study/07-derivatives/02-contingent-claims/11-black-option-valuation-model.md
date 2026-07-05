@@ -1,3 +1,10 @@
+---
+layout: page
+title: Black Option Valuation Model — European Options on Futures
+permalink: /study/07-derivatives/02-contingent-claims/11-black-option-valuation-model/
+prev: /cfa/study/07-derivatives/02-contingent-claims/10-bsm-model-carry-benefits/
+next: /cfa/study/07-derivatives/02-contingent-claims/12-interest-rate-option/
+---
 ## Summary: Black Option Valuation Model — European Options on Futures (CFA Level II — Derivatives)
 
 ---

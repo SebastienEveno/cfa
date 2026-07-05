@@ -1,3 +1,9 @@
+---
+layout: page
+title: Pricing and Valuation of Forward Commitments — Introduction
+permalink: /study/07-derivatives/01-valuation-forward-commitments/01-introduction/
+next: /cfa/study/07-derivatives/01-valuation-forward-commitments/02-carry-arbitrage/
+---
 ## Summary: Pricing and Valuation of Forward Commitments — Introduction (CFA Level II — Derivatives)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Active Bond Portfolio Management & Rolling Down the Yield Curve
+permalink: /study/06-fixed-income/01-term-structure-dynamics/03-active-bond-ptf-management/
+prev: /cfa/study/06-fixed-income/01-term-structure-dynamics/02-ytm-in-relation-to-spot-forward-rates/
+next: /cfa/study/06-fixed-income/01-term-structure-dynamics/04-swap-rate-curve/
+---
 ## Summary: Active Bond Portfolio Management & Rolling Down the Yield Curve (CFA Level II — Fixed Income)
 
 ---

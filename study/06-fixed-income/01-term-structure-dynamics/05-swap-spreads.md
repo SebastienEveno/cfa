@@ -1,3 +1,10 @@
+---
+layout: page
+title: Swap Spread and Spreads as Price Quotation Convention
+permalink: /study/06-fixed-income/01-term-structure-dynamics/05-swap-spreads/
+prev: /cfa/study/06-fixed-income/01-term-structure-dynamics/04-swap-rate-curve/
+next: /cfa/study/06-fixed-income/01-term-structure-dynamics/06-traditional-theories/
+---
 ## Summary: Swap Spread and Spreads as Price Quotation Convention (CFA Level II — Fixed Income)
 
 ---

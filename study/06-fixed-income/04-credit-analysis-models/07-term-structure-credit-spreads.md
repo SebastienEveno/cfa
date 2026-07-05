@@ -1,3 +1,10 @@
+---
+layout: page
+title: The Term Structure of Credit Spreads
+permalink: /study/06-fixed-income/04-credit-analysis-models/07-term-structure-credit-spreads/
+prev: /cfa/study/06-fixed-income/04-credit-analysis-models/06-interpreting-changes-credit-spread/
+next: /cfa/study/06-fixed-income/04-credit-analysis-models/08-securitized-debt/
+---
 ## Summary: The Term Structure of Credit Spreads (CFA Level II — Fixed Income)
 
 ---

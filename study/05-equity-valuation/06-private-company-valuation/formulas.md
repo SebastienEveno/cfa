@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Formulas: Private Company Valuation (CFA Level II)"
+permalink: /study/05-equity-valuation/06-private-company-valuation/formulas/
+prev: /cfa/study/05-equity-valuation/06-private-company-valuation/09-market-based-approach/
+---
 # Formulas: Private Company Valuation (CFA Level II)
 
 ---

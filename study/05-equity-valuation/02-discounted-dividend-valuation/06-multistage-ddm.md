@@ -1,3 +1,10 @@
+---
+layout: page
+title: Multistage Dividend Discount Models
+permalink: /study/05-equity-valuation/02-discounted-dividend-valuation/06-multistage-ddm/
+prev: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/05-gordon-growth-model-other-issues/
+next: /cfa/study/05-equity-valuation/02-discounted-dividend-valuation/07-h-model-and-3-stage-ddm/
+---
 ## Summary: Multistage Dividend Discount Models (CFA Level II)
 
 ---

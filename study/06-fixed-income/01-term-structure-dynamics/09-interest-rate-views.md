@@ -1,3 +1,10 @@
+---
+layout: page
+title: Developing Interest Rate Views Using Macroeconomic Variables
+permalink: /study/06-fixed-income/01-term-structure-dynamics/09-interest-rate-views/
+prev: /cfa/study/06-fixed-income/01-term-structure-dynamics/08-yield-curve-volatilities/
+next: /cfa/study/06-fixed-income/01-term-structure-dynamics/10-summary/
+---
 ## Summary: Developing Interest Rate Views Using Macroeconomic Variables (CFA Level II — Fixed Income)
 
 ---

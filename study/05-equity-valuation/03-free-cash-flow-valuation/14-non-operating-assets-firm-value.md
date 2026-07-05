@@ -1,3 +1,10 @@
+---
+layout: page
+title: Non-Operating Assets and Firm Value
+permalink: /study/05-equity-valuation/03-free-cash-flow-valuation/14-non-operating-assets-firm-value/
+prev: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/13-integrating-esg-fcf-models/
+next: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/15-summary/
+---
 ## Summary: Non-Operating Assets and Firm Value (CFA Level II)
 
 ---

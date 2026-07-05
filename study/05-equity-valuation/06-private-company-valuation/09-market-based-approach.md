@@ -1,3 +1,10 @@
+---
+layout: page
+title: Private Company Valuation — Market-Based Approach
+permalink: /study/05-equity-valuation/06-private-company-valuation/09-market-based-approach/
+prev: /cfa/study/05-equity-valuation/06-private-company-valuation/08-income-based-approach/
+next: /cfa/study/05-equity-valuation/06-private-company-valuation/formulas/
+---
 ## Summary: Private Company Valuation — Market-Based Approach (CFA Level II)
 
 ---

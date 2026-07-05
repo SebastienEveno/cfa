@@ -1,3 +1,10 @@
+---
+layout: page
+title: Option Greeks — Theta
+permalink: /study/07-derivatives/02-contingent-claims/16-option-greeks-theta/
+prev: /cfa/study/07-derivatives/02-contingent-claims/15-option-greeks-gamma/
+next: /cfa/study/07-derivatives/02-contingent-claims/17-option-greeks-vega/
+---
 ## Summary: Option Greeks — Theta (CFA Level II — Derivatives)
 
 ---

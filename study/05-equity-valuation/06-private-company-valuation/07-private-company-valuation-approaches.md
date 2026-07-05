@@ -1,3 +1,10 @@
+---
+layout: page
+title: Private Company Valuation Approaches
+permalink: /study/05-equity-valuation/06-private-company-valuation/07-private-company-valuation-approaches/
+prev: /cfa/study/05-equity-valuation/06-private-company-valuation/06-valuation-discounts-and-premiums/
+next: /cfa/study/05-equity-valuation/06-private-company-valuation/08-income-based-approach/
+---
 ## Summary: Private Company Valuation Approaches (CFA Level II)
 
 ---

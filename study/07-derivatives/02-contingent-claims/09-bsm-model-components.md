@@ -1,3 +1,10 @@
+---
+layout: page
+title: BSM Model Components and Interpretation
+permalink: /study/07-derivatives/02-contingent-claims/09-bsm-model-components/
+prev: /cfa/study/07-derivatives/02-contingent-claims/08-BSM-option-valuation-model/
+next: /cfa/study/07-derivatives/02-contingent-claims/10-bsm-model-carry-benefits/
+---
 ## Summary: BSM Model Components and Interpretation (CFA Level II — Derivatives)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Integrating ESG in Free Cash Flow Models
+permalink: /study/05-equity-valuation/03-free-cash-flow-valuation/13-integrating-esg-fcf-models/
+prev: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/11-two-stage-fcf-models/
+next: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/14-non-operating-assets-firm-value/
+---
 ## Summary: Integrating ESG in Free Cash Flow Models (CFA Level II)
 
 ---

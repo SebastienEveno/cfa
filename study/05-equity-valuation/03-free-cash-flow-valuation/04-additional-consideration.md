@@ -1,3 +1,10 @@
+---
+layout: page
+title: Additional Considerations in Computing FCFF
+permalink: /study/05-equity-valuation/03-free-cash-flow-valuation/04-additional-consideration/
+prev: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/03-computing-fcff-from-cash-flow-statement/
+next: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/05-computing-fcfe-from-fcff/
+---
 ## Summary: Additional Considerations in Computing FCFF (CFA Level II)
 
 ---

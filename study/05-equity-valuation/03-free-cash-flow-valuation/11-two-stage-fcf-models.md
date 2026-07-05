@@ -1,3 +1,10 @@
+---
+layout: page
+title: Two-Stage Free Cash Flow Models
+permalink: /study/05-equity-valuation/03-free-cash-flow-valuation/11-two-stage-fcf-models/
+prev: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/10-free-cash-flow-model-variations/
+next: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/13-integrating-esg-fcf-models/
+---
 ## Summary: Two-Stage Free Cash Flow Models (CFA Level II)
 
 ---

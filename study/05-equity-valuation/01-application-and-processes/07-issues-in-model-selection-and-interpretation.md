@@ -1,3 +1,10 @@
+---
+layout: page
+title: Issues in Model Selection and Interpretation
+permalink: /study/05-equity-valuation/01-application-and-processes/07-issues-in-model-selection-and-interpretation/
+prev: /cfa/study/05-equity-valuation/01-application-and-processes/06-selecting-the-appropriate-valuation-method/
+next: /cfa/study/05-equity-valuation/01-application-and-processes/08-analyst-role-and-responsibilities/
+---
 ## Summary: Issues in Model Selection and Interpretation (CFA Level II)
 
 ---

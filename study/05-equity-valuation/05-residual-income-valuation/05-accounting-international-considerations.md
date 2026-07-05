@@ -1,3 +1,10 @@
+---
+layout: page
+title: Accounting & International Considerations in Residual Income Models
+permalink: /study/05-equity-valuation/05-residual-income-valuation/05-accounting-international-considerations/
+prev: /cfa/study/05-equity-valuation/05-residual-income-valuation/04-relationship-to-other-approaches/
+next: /cfa/study/05-equity-valuation/05-residual-income-valuation/formulas/
+---
 ## Summary: Accounting & International Considerations in Residual Income Models (CFA Level II)
 
 ---

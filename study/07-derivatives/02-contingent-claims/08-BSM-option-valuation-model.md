@@ -1,3 +1,10 @@
+---
+layout: page
+title: Black-Scholes-Merton (BSM) Option Valuation Model — Introduction and Assumptions
+permalink: /study/07-derivatives/02-contingent-claims/08-BSM-option-valuation-model/
+prev: /cfa/study/07-derivatives/02-contingent-claims/07-interest-rate-options/
+next: /cfa/study/07-derivatives/02-contingent-claims/09-bsm-model-components/
+---
 ## Summary: Black-Scholes-Merton (BSM) Option Valuation Model — Introduction and Assumptions (CFA Level II — Derivatives)
 
 ---

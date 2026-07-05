@@ -1,3 +1,10 @@
+---
+layout: page
+title: Price/Sales (P/S)
+permalink: /study/05-equity-valuation/04-market-based-valuation/06-price-to-sales/
+prev: /cfa/study/05-equity-valuation/04-market-based-valuation/05-price-to-book-value/
+next: /cfa/study/05-equity-valuation/04-market-based-valuation/07-price-to-cashflow/
+---
 ## Summary: Price/Sales (P/S) (CFA Level II)
 
 ---

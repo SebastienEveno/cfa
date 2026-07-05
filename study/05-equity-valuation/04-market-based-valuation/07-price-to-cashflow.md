@@ -1,3 +1,10 @@
+---
+layout: page
+title: Price/Cash Flow (P/CF)
+permalink: /study/05-equity-valuation/04-market-based-valuation/07-price-to-cashflow/
+prev: /cfa/study/05-equity-valuation/04-market-based-valuation/06-price-to-sales/
+next: /cfa/study/05-equity-valuation/04-market-based-valuation/08-price-to-dividends/
+---
 ## Summary: Price/Cash Flow (P/CF) (CFA Level II)
 
 ---
