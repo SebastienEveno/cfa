@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Commodity Swaps"
+permalink: /study/08-alternatives/01-introduction-to-commo/10-commodity-swaps/
+prev: /cfa/study/08-alternatives/01-introduction-to-commo/09-contango-backwardation-roll-return/
+next: /cfa/study/08-alternatives/01-introduction-to-commo/11-commodity-indexes/
+---
 ## Summary: Commodity Swaps (CFA Level II — Alternative Investments)
 
 ---

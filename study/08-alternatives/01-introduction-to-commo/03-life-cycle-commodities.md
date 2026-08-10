@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Life Cycle of Commodity Sectors"
+permalink: /study/08-alternatives/01-introduction-to-commo/03-life-cycle-commodities/
+next: /cfa/study/08-alternatives/01-introduction-to-commo/04-valuation-of-commodities/
+---
 ## Summary: Life Cycle of Commodity Sectors (CFA Level II — Alternative Investments)
 
 ---

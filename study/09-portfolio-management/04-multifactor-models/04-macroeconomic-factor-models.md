@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Macroeconomic Factor Models"
+permalink: /study/09-portfolio-management/04-multifactor-models/04-macroeconomic-factor-models/
+prev: /cfa/study/09-portfolio-management/04-multifactor-models/03-types-of-multifactor-models/
+next: /cfa/study/09-portfolio-management/04-multifactor-models/05-fundamental-factor-models/
+---
 ## Summary: Macroeconomic Factor Models (CFA Level II — Portfolio Management)
 
 ---

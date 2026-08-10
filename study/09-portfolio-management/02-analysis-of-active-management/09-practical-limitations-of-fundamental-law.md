@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Practical Limitations of the Fundamental Law"
+permalink: /study/09-portfolio-management/02-analysis-of-active-management/09-practical-limitations-of-fundamental-law/
+prev: /cfa/study/09-portfolio-management/02-analysis-of-active-management/08-fixed-income-strategies/
+next: /cfa/study/09-portfolio-management/02-analysis-of-active-management/10-formula-summary/
+---
 ## Summary: Practical Limitations of the Fundamental Law (CFA Level II — Portfolio Management)
 
 ---

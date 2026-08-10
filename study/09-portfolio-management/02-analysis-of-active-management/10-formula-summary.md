@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Formula Summary: Analysis of Active Portfolio Management (CFA Level II — Portfolio Management)"
+permalink: /study/09-portfolio-management/02-analysis-of-active-management/10-formula-summary/
+prev: /cfa/study/09-portfolio-management/02-analysis-of-active-management/09-practical-limitations-of-fundamental-law/
+---
 ## Formula Summary: Analysis of Active Portfolio Management (CFA Level II — Portfolio Management)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Real Estate Due Diligence and Valuation Approaches"
+permalink: /study/08-alternatives/02-real-estate-investments/05-real-estate-due-diligence/
+prev: /cfa/study/08-alternatives/02-real-estate-investments/04-commercial-property-investment-characteristics/
+next: /cfa/study/08-alternatives/02-real-estate-investments/06-real-estate-indexes/
+---
 ## Summary: Real Estate Due Diligence and Valuation Approaches (CFA Level II — Alternative Investments)
 
 ---

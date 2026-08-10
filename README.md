@@ -57,6 +57,29 @@ Pricing and valuation of forward commitments and contingent claims.
 
 ---
 
+### [Alternative Investments](/cfa/study/08-alternatives/)
+
+Commodities, real estate investments, and publicly traded real estate securities.
+
+- 🛢️ [Introduction to Commodities](/cfa/study/08-alternatives/01-introduction-to-commo/03-life-cycle-commodities/) — Sector life cycles, futures pricing, roll return, swaps, and indexes
+- 🏘️ [Real Estate Investments](/cfa/study/08-alternatives/02-real-estate-investments/02-real-estate-invesment-features/) — NOI, leverage measures, valuation approaches, and due diligence
+- 🏢 [Publicly Traded Real Estate Securities](/cfa/study/08-alternatives/03-publicly-traded-securities/02-types-of-publicly-traded-securities/) — REITs, REOCs, NAV and relative value approaches
+
+---
+
+### [Portfolio Management](/cfa/study/09-portfolio-management/)
+
+Economics and investment markets, active management analysis, ETFs, multifactor models, market risk, and backtesting.
+
+- 📉 [Economics and Investment Markets](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/02-present-value-model/) — Discount rate components, the yield curve, and risk premiums
+- 🎯 [Analysis of Active Management](/cfa/study/09-portfolio-management/02-analysis-of-active-management/02-active-management-and-value-added/) — Value added, Sharpe/information ratios, and the fundamental law
+- 📦 [Exchange-Traded Funds (ETFs)](/cfa/study/09-portfolio-management/03-ETFs/02-etf-mechanics/) — Creation/redemption, costs, tracking error, and risks
+- 🧮 [Multifactor Models](/cfa/study/09-portfolio-management/04-multifactor-models/02-APT-and-multifactor-models/) — APT, factor models, and return/risk attribution
+- ⚠️ [Measuring and Managing Market Risk](/cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/01-introduction/) — VaR estimation methods, sensitivity and scenario measures
+- 🔁 [Backtesting and Simulation](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/01-introduction/) — Techniques for evaluating investment strategies
+
+---
+
 ## 🚀 Getting Started
 
 Browse the topics above or visit any index page to explore a subject area. Each note contains:

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "ETF Mechanics — Creation/Redemption Process"
+permalink: /study/09-portfolio-management/03-ETFs/02-etf-mechanics/
+next: /cfa/study/09-portfolio-management/03-ETFs/03-understanding-etfs/
+---
 ## Summary: ETF Mechanics — Creation/Redemption Process (CFA Level II — Portfolio Management)
 
 ---

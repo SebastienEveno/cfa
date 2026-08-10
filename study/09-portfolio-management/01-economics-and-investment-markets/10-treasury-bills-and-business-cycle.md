@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.10 | Treasury Bills and the Business Cycle"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/10-treasury-bills-and-business-cycle/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/09-yield-curve-and-business-cycle/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/11-conventional-gov-bonds/
+---
 ## Summary: 1.10 | Treasury Bills and the Business Cycle (CFA Level II — Economics and Investment Markets)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Risk Measures — Banks, Asset Managers, Pension Funds, and Comparative Overview"
+permalink: /study/09-portfolio-management/05-measuring-and-managing-market-risk/10-using-constraints-in-market-risk-management/
+prev: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/08-scenario-risk-measures/
+next: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/12-pension-funds-and-insurers/
+---
 ## Summary: Risk Measures — Banks, Asset Managers, Pension Funds, and Comparative Overview (CFA Level II — Portfolio Management)
 
 ---

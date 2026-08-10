@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Formula Summary: Real Estate Investments (CFA Level II — Alternative Investments)"
+permalink: /study/08-alternatives/02-real-estate-investments/07-formula-summary/
+prev: /cfa/study/08-alternatives/02-real-estate-investments/06-real-estate-indexes/
+---
 ## Formula Summary: Real Estate Investments (CFA Level II — Alternative Investments)
 
 ---

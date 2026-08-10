@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Private vs. Public Real Estate — A Comparison"
+permalink: /study/08-alternatives/03-publicly-traded-securities/06-private-vs-public/
+prev: /cfa/study/08-alternatives/03-publicly-traded-securities/05-reit-mini-case-study/
+next: /cfa/study/08-alternatives/03-publicly-traded-securities/07-formula-summary/
+---
 ## Summary: Private vs. Public Real Estate — A Comparison (CFA Level II — Alternative Investments)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.08 | Real Default-Free Interest Rates and the Business Cycle"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/08-real-default-free-bonds-interest-rates/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/07-default-free-interest-rates-economic-growth/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/09-yield-curve-and-business-cycle/
+---
 ## Summary: 1.08 | Real Default-Free Interest Rates and the Business Cycle (CFA Level II — Economics and Investment Markets)
 
 ---

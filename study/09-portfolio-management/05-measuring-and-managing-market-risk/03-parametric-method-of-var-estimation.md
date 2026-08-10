@@ -1,3 +1,10 @@
+---
+layout: page
+title: "The Parametric Method of VaR Estimation"
+permalink: /study/09-portfolio-management/05-measuring-and-managing-market-risk/03-parametric-method-of-var-estimation/
+prev: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/02-estimating-var/
+next: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/04-historical-simulation-method-of-var-estimation/
+---
 ## Summary: The Parametric Method of VaR Estimation (CFA Level II — Portfolio Management)
 
 ---

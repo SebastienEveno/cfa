@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Contango, Backwardation, and the Roll Return — Historical Analysis"
+permalink: /study/08-alternatives/01-introduction-to-commo/09-contango-backwardation-roll-return/
+prev: /cfa/study/08-alternatives/01-introduction-to-commo/08-components-of-futures-returns/
+next: /cfa/study/08-alternatives/01-introduction-to-commo/10-commodity-swaps/
+---
 ## Summary: Contango, Backwardation, and the Roll Return — Historical Analysis (CFA Level II — Alternative Investments)
 
 ---

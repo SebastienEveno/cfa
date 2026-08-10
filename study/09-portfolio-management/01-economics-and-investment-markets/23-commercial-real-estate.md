@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.23 | Commercial Real Estate"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/23-commercial-real-estate/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/22-valuation-multiples/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/24-commercial-real-estate-business-cycle/
+---
 ## Summary: 1.23 | Commercial Real Estate (CFA Level II — Economics and Investment Markets)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.15 | Other Factors"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/15-other-factors/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/14-evidence-risk-premiums-for-default-free-bonds/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/16-credit-premiums/
+---
 ## Summary: 1.15 | Other Factors (CFA Level II — Economics and Investment Markets)
 
 ---

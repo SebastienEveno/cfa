@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Risk Measures — Pension Funds and Insurers"
+permalink: /study/09-portfolio-management/05-measuring-and-managing-market-risk/12-pension-funds-and-insurers/
+prev: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/10-using-constraints-in-market-risk-management/
+---
 ## Summary: Risk Measures — Pension Funds and Insurers (CFA Level II — Portfolio Management)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Commodity Futures Markets — Participants"
+permalink: /study/08-alternatives/01-introduction-to-commo/05-commodities-futures-markets-participants/
+prev: /cfa/study/08-alternatives/01-introduction-to-commo/04-valuation-of-commodities/
+next: /cfa/study/08-alternatives/01-introduction-to-commo/06-commodity-spot-and-futures-prices/
+---
 ## Summary: Commodity Futures Markets — Participants (CFA Level II — Alternative Investments)
 
 ---

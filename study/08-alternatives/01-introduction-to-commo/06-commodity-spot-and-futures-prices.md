@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Commodity Spot and Futures Pricing — Contango and Backwardation"
+permalink: /study/08-alternatives/01-introduction-to-commo/06-commodity-spot-and-futures-prices/
+prev: /cfa/study/08-alternatives/01-introduction-to-commo/05-commodities-futures-markets-participants/
+next: /cfa/study/08-alternatives/01-introduction-to-commo/07-theories-of-futures-returns/
+---
 ## Summary: Commodity Spot and Futures Pricing — Contango and Backwardation (CFA Level II — Alternative Investments)
 
 ---

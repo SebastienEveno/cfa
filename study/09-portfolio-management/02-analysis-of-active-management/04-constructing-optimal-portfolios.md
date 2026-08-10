@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Constructing Optimal Portfolios"
+permalink: /study/09-portfolio-management/02-analysis-of-active-management/04-constructing-optimal-portfolios/
+prev: /cfa/study/09-portfolio-management/02-analysis-of-active-management/03-sharpe-ratio-and-information-ratio/
+next: /cfa/study/09-portfolio-management/02-analysis-of-active-management/05-fundamental-law-of-active-management/
+---
 ## Summary: Constructing Optimal Portfolios (CFA Level II — Portfolio Management)
 
 ---

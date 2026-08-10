@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.19 | Equities and the Equity Risk Premium"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/19-equity-risk-premium/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/18-sovereign-credit-risk/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/20-earnings-growth-economic-cycle/
+---
 ## Summary: 1.19 | Equities and the Equity Risk Premium (CFA Level II — Economics and Investment Markets)
 
 ---

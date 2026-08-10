@@ -1,3 +1,9 @@
+---
+layout: page
+title: "ETFs in Portfolio Management"
+permalink: /study/09-portfolio-management/03-ETFs/05-etfs-in-portfolio-management/
+prev: /cfa/study/09-portfolio-management/03-ETFs/04-etf-risks/
+---
 ## Summary: ETFs in Portfolio Management (CFA Level II — Portfolio Management)
 
 ---

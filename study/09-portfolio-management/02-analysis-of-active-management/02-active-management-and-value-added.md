@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Active Management and Value Added"
+permalink: /study/09-portfolio-management/02-analysis-of-active-management/02-active-management-and-value-added/
+next: /cfa/study/09-portfolio-management/02-analysis-of-active-management/03-sharpe-ratio-and-information-ratio/
+---
 ## Summary: Active Management and Value Added (CFA Level II — Portfolio Management)
 
 ---

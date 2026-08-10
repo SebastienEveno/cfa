@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.13 | The Slope of the Yield Curve and the Term Spread"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/13-slope-of-yield-curve-and-term-spread/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/12-default-free-yield-curve/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/14-evidence-risk-premiums-for-default-free-bonds/
+---
 ## Summary: 1.13 | The Slope of the Yield Curve and the Term Spread (CFA Level II — Economics and Investment Markets)
 
 ---

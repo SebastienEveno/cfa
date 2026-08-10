@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.04 | The Discount Rate on Real Default-Free Bonds: Interest Rates"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/04-discount-rate-real-default-free-bonds/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/03-expectations-asset-values/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/05-uncertainty-and-risk-premium/
+---
 ## Summary: 1.04 | The Discount Rate on Real Default-Free Bonds: Interest Rates (CFA Level II — Economics and Investment Markets)
 
 ---

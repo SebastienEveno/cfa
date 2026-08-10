@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.14 | Evidence on Risk Premiums for Default-Free Bonds"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/14-evidence-risk-premiums-for-default-free-bonds/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/13-slope-of-yield-curve-and-term-spread/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/15-other-factors/
+---
 ## Summary: 1.14 | Evidence on Risk Premiums for Default-Free Bonds (CFA Level II — Economics and Investment Markets)
 
 ---

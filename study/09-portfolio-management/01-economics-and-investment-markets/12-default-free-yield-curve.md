@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.12 | The Default-Free Yield Curve and the Business Cycle"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/12-default-free-yield-curve/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/11-conventional-gov-bonds/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/13-slope-of-yield-curve-and-term-spread/
+---
 ## Summary: 1.12 | The Default-Free Yield Curve and the Business Cycle (CFA Level II — Economics and Investment Markets)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "The Full Fundamental Law"
+permalink: /study/09-portfolio-management/02-analysis-of-active-management/06-the-full-fundamental-law/
+prev: /cfa/study/09-portfolio-management/02-analysis-of-active-management/05-fundamental-law-of-active-management/
+next: /cfa/study/09-portfolio-management/02-analysis-of-active-management/07-applications-of-fundamental-law/
+---
 ## Summary: The Full Fundamental Law (CFA Level II — Portfolio Management)
 
 ---

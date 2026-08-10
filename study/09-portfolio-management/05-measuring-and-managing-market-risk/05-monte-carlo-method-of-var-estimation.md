@@ -1,3 +1,10 @@
+---
+layout: page
+title: "The Monte Carlo Simulation Method of VaR Estimation"
+permalink: /study/09-portfolio-management/05-measuring-and-managing-market-risk/05-monte-carlo-method-of-var-estimation/
+prev: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/04-historical-simulation-method-of-var-estimation/
+next: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/06-advantages-limitations-extensions-of-var/
+---
 ## Summary: The Monte Carlo Simulation Method of VaR Estimation (CFA Level II — Portfolio Management)
 
 ---

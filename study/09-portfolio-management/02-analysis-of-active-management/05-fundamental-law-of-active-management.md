@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Active Security Returns and The Fundamental Law of Active Management"
+permalink: /study/09-portfolio-management/02-analysis-of-active-management/05-fundamental-law-of-active-management/
+prev: /cfa/study/09-portfolio-management/02-analysis-of-active-management/04-constructing-optimal-portfolios/
+next: /cfa/study/09-portfolio-management/02-analysis-of-active-management/06-the-full-fundamental-law/
+---
 ## Summary: Active Security Returns and The Fundamental Law of Active Management (CFA Level II — Portfolio Management)
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Real Estate Investment Features"
+permalink: /study/08-alternatives/02-real-estate-investments/02-real-estate-invesment-features/
+next: /cfa/study/08-alternatives/02-real-estate-investments/03-economic-value-drivers/
+---
 ## Summary: Real Estate Investment Features (CFA Level II — Alternative Investments)
 
 ---

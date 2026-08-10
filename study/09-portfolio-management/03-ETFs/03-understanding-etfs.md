@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Understanding ETFs — Costs, Tracking Error, and Trading"
+permalink: /study/09-portfolio-management/03-ETFs/03-understanding-etfs/
+prev: /cfa/study/09-portfolio-management/03-ETFs/02-etf-mechanics/
+next: /cfa/study/09-portfolio-management/03-ETFs/04-etf-risks/
+---
 ## Summary: Understanding ETFs — Costs, Tracking Error, and Trading (CFA Level II — Portfolio Management)
 
 ---
