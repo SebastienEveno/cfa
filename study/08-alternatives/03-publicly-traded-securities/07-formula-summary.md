@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Formula Summary: Publicly Traded Real Estate Securities (CFA Level II — Alternative Investments)"
+permalink: /study/08-alternatives/03-publicly-traded-securities/07-formula-summary/
+prev: /cfa/study/08-alternatives/03-publicly-traded-securities/06-private-vs-public/
+---
 ## Formula Summary: Publicly Traded Real Estate Securities (CFA Level II — Alternative Investments)
 
 ---

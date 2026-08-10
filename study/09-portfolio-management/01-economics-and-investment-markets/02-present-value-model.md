@@ -1,3 +1,9 @@
+---
+layout: page
+title: "1.02 | The Present Value Model"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/02-present-value-model/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/03-expectations-asset-values/
+---
 ## Summary: 1.02 | The Present Value Model (CFA Level II — Economics and Investment Markets)
 
 ---

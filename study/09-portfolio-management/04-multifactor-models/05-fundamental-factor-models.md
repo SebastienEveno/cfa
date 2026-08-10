@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Fundamental Factor Models — Empirical Comparison"
+permalink: /study/09-portfolio-management/04-multifactor-models/05-fundamental-factor-models/
+prev: /cfa/study/09-portfolio-management/04-multifactor-models/04-macroeconomic-factor-models/
+next: /cfa/study/09-portfolio-management/04-multifactor-models/06-factor-models-in-return-attribution/
+---
 ## Summary: Fundamental Factor Models — Empirical Comparison (CFA Level II — Portfolio Management)
 
 ---

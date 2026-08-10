@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Advantages, Limitations, and Extensions of VaR"
+permalink: /study/09-portfolio-management/05-measuring-and-managing-market-risk/06-advantages-limitations-extensions-of-var/
+prev: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/05-monte-carlo-method-of-var-estimation/
+next: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/07-other-key-risk-measures/
+---
 ## Summary: Advantages, Limitations, and Extensions of VaR (CFA Level II — Portfolio Management)
 
 ---

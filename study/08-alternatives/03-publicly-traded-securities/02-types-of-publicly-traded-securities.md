@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Types of Publicly Traded Real Estate Securities"
+permalink: /study/08-alternatives/03-publicly-traded-securities/02-types-of-publicly-traded-securities/
+next: /cfa/study/08-alternatives/03-publicly-traded-securities/03-valuation-net-asset-value-approach/
+---
 ## Summary: Types of Publicly Traded Real Estate Securities (CFA Level II — Alternative Investments)
 
 ---

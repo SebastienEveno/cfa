@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Backtesting and Simulation — Introduction"
+permalink: /study/09-portfolio-management/06-backtesting-and-simulation/01-introduction/
+---
 ## Summary: Backtesting and Simulation — Introduction (CFA Level II — Portfolio Management)
 
 ---

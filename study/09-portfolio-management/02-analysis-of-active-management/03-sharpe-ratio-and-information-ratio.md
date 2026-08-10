@@ -1,3 +1,10 @@
+---
+layout: page
+title: "The Sharpe Ratio and The Information Ratio"
+permalink: /study/09-portfolio-management/02-analysis-of-active-management/03-sharpe-ratio-and-information-ratio/
+prev: /cfa/study/09-portfolio-management/02-analysis-of-active-management/02-active-management-and-value-added/
+next: /cfa/study/09-portfolio-management/02-analysis-of-active-management/04-constructing-optimal-portfolios/
+---
 ## Summary: The Sharpe Ratio and The Information Ratio (CFA Level II — Portfolio Management)
 
 ---

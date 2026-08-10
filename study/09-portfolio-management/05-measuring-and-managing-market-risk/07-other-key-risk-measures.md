@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Other Key Risk Measures — Sensitivity Analysis"
+permalink: /study/09-portfolio-management/05-measuring-and-managing-market-risk/07-other-key-risk-measures/
+prev: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/06-advantages-limitations-extensions-of-var/
+next: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/08-scenario-risk-measures/
+---
 ## Summary: Other Key Risk Measures — Sensitivity Analysis (CFA Level II — Portfolio Management)
 
 ---

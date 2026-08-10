@@ -1,3 +1,10 @@
+---
+layout: page
+title: "REIT Mini Case Study — Capitol Shopping Center REIT Inc."
+permalink: /study/08-alternatives/03-publicly-traded-securities/05-reit-mini-case-study/
+prev: /cfa/study/08-alternatives/03-publicly-traded-securities/04-valuation-relative-value-approach/
+next: /cfa/study/08-alternatives/03-publicly-traded-securities/06-private-vs-public/
+---
 ## Summary: REIT Mini Case Study — Capitol Shopping Center REIT Inc. (CFA Level II — Alternative Investments)
 
 ---

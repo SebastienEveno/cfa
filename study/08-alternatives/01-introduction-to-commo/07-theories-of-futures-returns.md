@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Theories of Commodity Futures Returns"
+permalink: /study/08-alternatives/01-introduction-to-commo/07-theories-of-futures-returns/
+prev: /cfa/study/08-alternatives/01-introduction-to-commo/06-commodity-spot-and-futures-prices/
+next: /cfa/study/08-alternatives/01-introduction-to-commo/08-components-of-futures-returns/
+---
 ## Summary: Theories of Commodity Futures Returns (CFA Level II — Alternative Investments)
 
 ---

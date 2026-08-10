@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.11 | Conventional Government Bonds and Break-even Inflation Rates"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/11-conventional-gov-bonds/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/10-treasury-bills-and-business-cycle/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/12-default-free-yield-curve/
+---
 ## Summary: 1.11 | Conventional Government Bonds and Break-even Inflation Rates (CFA Level II — Economics and Investment Markets)
 
 ---

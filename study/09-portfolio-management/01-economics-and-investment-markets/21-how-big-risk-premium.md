@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.21 | How Big is the Equity Risk Premium?"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/21-how-big-risk-premium/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/20-earnings-growth-economic-cycle/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/22-valuation-multiples/
+---
 ## Summary: 1.21 | How Big is the Equity Risk Premium? (CFA Level II — Economics and Investment Markets)
 
 ---

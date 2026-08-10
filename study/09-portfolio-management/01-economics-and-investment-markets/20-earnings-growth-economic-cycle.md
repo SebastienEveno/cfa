@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.20 | Earnings Growth and the Economic Cycle"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/20-earnings-growth-economic-cycle/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/19-equity-risk-premium/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/21-how-big-risk-premium/
+---
 ## Summary: 1.20 | Earnings Growth and the Economic Cycle (CFA Level II — Economics and Investment Markets)
 
 ---

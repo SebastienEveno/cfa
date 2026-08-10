@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.22 | Valuation Multiples"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/22-valuation-multiples/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/21-how-big-risk-premium/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/23-commercial-real-estate/
+---
 ## Summary: 1.22 | Valuation Multiples (CFA Level II — Economics and Investment Markets)
 
 ---

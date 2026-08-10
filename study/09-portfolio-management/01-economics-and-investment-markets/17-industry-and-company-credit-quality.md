@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.17 | Industry- and Company-Specific Credit Quality"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/17-industry-and-company-credit-quality/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/16-credit-premiums/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/18-sovereign-credit-risk/
+---
 ## Summary: 1.17 | Industry- and Company-Specific Credit Quality (CFA Level II — Economics and Investment Markets)
 
 ---

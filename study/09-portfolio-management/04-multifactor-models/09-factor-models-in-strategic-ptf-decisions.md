@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Factor Models in Strategic Portfolio Decisions"
+permalink: /study/09-portfolio-management/04-multifactor-models/09-factor-models-in-strategic-ptf-decisions/
+prev: /cfa/study/09-portfolio-management/04-multifactor-models/08-factor-models-in-portfolio-construction/
+---
 ## Summary: Factor Models in Strategic Portfolio Decisions (CFA Level II — Portfolio Management)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Applications of the Fundamental Law — Global Equity Strategy"
+permalink: /study/09-portfolio-management/02-analysis-of-active-management/07-applications-of-fundamental-law/
+prev: /cfa/study/09-portfolio-management/02-analysis-of-active-management/06-the-full-fundamental-law/
+next: /cfa/study/09-portfolio-management/02-analysis-of-active-management/08-fixed-income-strategies/
+---
 ## Summary: Applications of the Fundamental Law — Global Equity Strategy (CFA Level II — Portfolio Management)
 
 ---

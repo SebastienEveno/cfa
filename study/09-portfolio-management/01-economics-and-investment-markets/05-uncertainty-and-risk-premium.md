@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.05 | The Discount Rate on Real Default-Free Bonds: Uncertainty and Risk Premiums"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/05-uncertainty-and-risk-premium/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/04-discount-rate-real-default-free-bonds/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/06-risk-premiums-on-risky-assets/
+---
 ## Summary: 1.05 | The Discount Rate on Real Default-Free Bonds: Uncertainty and Risk Premiums (CFA Level II — Economics and Investment Markets)
 
 ---

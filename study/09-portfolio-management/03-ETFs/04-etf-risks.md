@@ -1,3 +1,10 @@
+---
+layout: page
+title: "ETF Risks"
+permalink: /study/09-portfolio-management/03-ETFs/04-etf-risks/
+prev: /cfa/study/09-portfolio-management/03-ETFs/03-understanding-etfs/
+next: /cfa/study/09-portfolio-management/03-ETFs/05-etfs-in-portfolio-management/
+---
 ## Summary: ETF Risks (CFA Level II — Portfolio Management)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Components of Commodity Futures Returns"
+permalink: /study/08-alternatives/01-introduction-to-commo/08-components-of-futures-returns/
+prev: /cfa/study/08-alternatives/01-introduction-to-commo/07-theories-of-futures-returns/
+next: /cfa/study/08-alternatives/01-introduction-to-commo/09-contango-backwardation-roll-return/
+---
 ## Summary: Components of Commodity Futures Returns (CFA Level II — Alternative Investments)
 
 ---

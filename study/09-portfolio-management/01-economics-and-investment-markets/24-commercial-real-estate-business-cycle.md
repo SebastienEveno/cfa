@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.24 | Commercial Real Estate and the Business Cycle"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/24-commercial-real-estate-business-cycle/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/23-commercial-real-estate/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/25-summary/
+---
 ## Summary: 1.24 | Commercial Real Estate and the Business Cycle (CFA Level II — Economics and Investment Markets)
 
 ---

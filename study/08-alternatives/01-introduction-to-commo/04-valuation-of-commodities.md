@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Valuation of Commodities vs. Equities and Bonds"
+permalink: /study/08-alternatives/01-introduction-to-commo/04-valuation-of-commodities/
+prev: /cfa/study/08-alternatives/01-introduction-to-commo/03-life-cycle-commodities/
+next: /cfa/study/08-alternatives/01-introduction-to-commo/05-commodities-futures-markets-participants/
+---
 ## Summary: Valuation of Commodities vs. Equities and Bonds (CFA Level II — Alternative Investments)
 
 ---

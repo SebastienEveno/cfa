@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.06 | The Discount Rate on Real Default-Free Bonds: Risk Premiums on Risky Assets"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/06-risk-premiums-on-risky-assets/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/05-uncertainty-and-risk-premium/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/07-default-free-interest-rates-economic-growth/
+---
 ## Summary: 1.06 | The Discount Rate on Real Default-Free Bonds: Risk Premiums on Risky Assets (CFA Level II — Economics and Investment Markets)
 
 ---

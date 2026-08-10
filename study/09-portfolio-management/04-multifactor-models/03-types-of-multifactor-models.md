@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Types of Multifactor Models"
+permalink: /study/09-portfolio-management/04-multifactor-models/03-types-of-multifactor-models/
+prev: /cfa/study/09-portfolio-management/04-multifactor-models/02-APT-and-multifactor-models/
+next: /cfa/study/09-portfolio-management/04-multifactor-models/04-macroeconomic-factor-models/
+---
 ## Summary: Types of Multifactor Models (CFA Level II — Portfolio Management)
 
 ---

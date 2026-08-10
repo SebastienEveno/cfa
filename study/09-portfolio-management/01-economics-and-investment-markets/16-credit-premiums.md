@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.16 | Credit Premiums and the Business Cycle"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/16-credit-premiums/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/15-other-factors/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/17-industry-and-company-credit-quality/
+---
 ## Summary: 1.16 | Credit Premiums and the Business Cycle (CFA Level II — Economics and Investment Markets)
 
 ---

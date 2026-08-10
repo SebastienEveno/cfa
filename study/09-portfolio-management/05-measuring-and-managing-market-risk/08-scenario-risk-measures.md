@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Scenario Risk Measures"
+permalink: /study/09-portfolio-management/05-measuring-and-managing-market-risk/08-scenario-risk-measures/
+prev: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/07-other-key-risk-measures/
+next: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/10-using-constraints-in-market-risk-management/
+---
 ## Summary: Scenario Risk Measures (CFA Level II — Portfolio Management)
 
 ---

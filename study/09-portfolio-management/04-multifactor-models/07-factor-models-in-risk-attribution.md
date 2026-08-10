@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Factor Models in Risk Attribution"
+permalink: /study/09-portfolio-management/04-multifactor-models/07-factor-models-in-risk-attribution/
+prev: /cfa/study/09-portfolio-management/04-multifactor-models/06-factor-models-in-return-attribution/
+next: /cfa/study/09-portfolio-management/04-multifactor-models/08-factor-models-in-portfolio-construction/
+---
 ## Summary: Factor Models in Risk Attribution (CFA Level II — Portfolio Management)
 
 ---

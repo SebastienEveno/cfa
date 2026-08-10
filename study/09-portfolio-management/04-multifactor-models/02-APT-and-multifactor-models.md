@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Arbitrage Pricing Theory and Multifactor Models"
+permalink: /study/09-portfolio-management/04-multifactor-models/02-APT-and-multifactor-models/
+next: /cfa/study/09-portfolio-management/04-multifactor-models/03-types-of-multifactor-models/
+---
 ## Summary: Arbitrage Pricing Theory and Multifactor Models (CFA Level II — Portfolio Management)
 
 ---

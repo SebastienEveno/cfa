@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Factor Models in Portfolio Construction"
+permalink: /study/09-portfolio-management/04-multifactor-models/08-factor-models-in-portfolio-construction/
+prev: /cfa/study/09-portfolio-management/04-multifactor-models/07-factor-models-in-risk-attribution/
+next: /cfa/study/09-portfolio-management/04-multifactor-models/09-factor-models-in-strategic-ptf-decisions/
+---
 ## Summary: Factor Models in Portfolio Construction (CFA Level II — Portfolio Management)
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Measuring and Managing Market Risk — Introduction to VaR"
+permalink: /study/09-portfolio-management/05-measuring-and-managing-market-risk/01-introduction/
+next: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/02-estimating-var/
+---
 ## Summary: Measuring and Managing Market Risk — Introduction to VaR (CFA Level II — Portfolio Management)
 
 ---

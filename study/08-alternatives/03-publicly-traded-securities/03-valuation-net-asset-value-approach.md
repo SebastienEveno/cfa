@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Valuation — Net Asset Value (NAV) Approach for REITs"
+permalink: /study/08-alternatives/03-publicly-traded-securities/03-valuation-net-asset-value-approach/
+prev: /cfa/study/08-alternatives/03-publicly-traded-securities/02-types-of-publicly-traded-securities/
+next: /cfa/study/08-alternatives/03-publicly-traded-securities/04-valuation-relative-value-approach/
+---
 ## Summary: Valuation — Net Asset Value (NAV) Approach for REITs (CFA Level II — Alternative Investments)
 
 ---

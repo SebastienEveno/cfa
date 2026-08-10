@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Real Estate Indexes"
+permalink: /study/08-alternatives/02-real-estate-investments/06-real-estate-indexes/
+prev: /cfa/study/08-alternatives/02-real-estate-investments/05-real-estate-due-diligence/
+next: /cfa/study/08-alternatives/02-real-estate-investments/07-formula-summary/
+---
 ## Summary: Real Estate Indexes (CFA Level II — Alternative Investments)
 
 ---

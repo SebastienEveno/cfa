@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Commercial Property Investment Characteristics"
+permalink: /study/08-alternatives/02-real-estate-investments/04-commercial-property-investment-characteristics/
+prev: /cfa/study/08-alternatives/02-real-estate-investments/03-economic-value-drivers/
+next: /cfa/study/08-alternatives/02-real-estate-investments/05-real-estate-due-diligence/
+---
 ## Summary: Commercial Property Investment Characteristics (CFA Level II — Alternative Investments)
 
 ---

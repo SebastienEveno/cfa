@@ -1,3 +1,9 @@
+---
+layout: page
+title: "1.25 | Summary — Module 1: Economics and Investment Markets"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/25-summary/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/24-commercial-real-estate-business-cycle/
+---
 ## Summary: 1.25 | Summary — Module 1: Economics and Investment Markets (CFA Level II — Portfolio Management)
 
 ---

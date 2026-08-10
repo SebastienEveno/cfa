@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.09 | The Yield Curve and the Business Cycle"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/09-yield-curve-and-business-cycle/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/08-real-default-free-bonds-interest-rates/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/10-treasury-bills-and-business-cycle/
+---
 ## Summary: 1.09 | The Yield Curve and the Business Cycle (CFA Level II — Economics and Investment Markets)
 
 ---

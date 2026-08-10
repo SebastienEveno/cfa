@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Estimating VaR — Setup and Data Foundations"
+permalink: /study/09-portfolio-management/05-measuring-and-managing-market-risk/02-estimating-var/
+prev: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/01-introduction/
+next: /cfa/study/09-portfolio-management/05-measuring-and-managing-market-risk/03-parametric-method-of-var-estimation/
+---
 ## Summary: Estimating VaR — Setup and Data Foundations (CFA Level II — Portfolio Management)
 
 ---

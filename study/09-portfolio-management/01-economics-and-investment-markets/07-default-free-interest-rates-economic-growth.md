@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.07 | Default-Free Interest Rates and Economic Growth"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/07-default-free-interest-rates-economic-growth/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/06-risk-premiums-on-risky-assets/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/08-real-default-free-bonds-interest-rates/
+---
 ## Summary: 1.07 | Default-Free Interest Rates and Economic Growth (CFA Level II — Economics and Investment Markets)
 
 ---

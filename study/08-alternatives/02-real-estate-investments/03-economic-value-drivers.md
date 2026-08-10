@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Economic Value Drivers and Portfolio Characteristics of Real Estate"
+permalink: /study/08-alternatives/02-real-estate-investments/03-economic-value-drivers/
+prev: /cfa/study/08-alternatives/02-real-estate-investments/02-real-estate-invesment-features/
+next: /cfa/study/08-alternatives/02-real-estate-investments/04-commercial-property-investment-characteristics/
+---
 ## Summary: Economic Value Drivers and Portfolio Characteristics of Real Estate (CFA Level II — Alternative Investments)
 
 ---

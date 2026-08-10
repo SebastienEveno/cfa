@@ -1,3 +1,10 @@
+---
+layout: page
+title: "1.18 | Sovereign Credit Risk"
+permalink: /study/09-portfolio-management/01-economics-and-investment-markets/18-sovereign-credit-risk/
+prev: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/17-industry-and-company-credit-quality/
+next: /cfa/study/09-portfolio-management/01-economics-and-investment-markets/19-equity-risk-premium/
+---
 ## Summary: 1.18 | Sovereign Credit Risk (CFA Level II — Economics and Investment Markets)
 
 ---

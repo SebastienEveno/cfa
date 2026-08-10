@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Commodity Indexes"
+permalink: /study/08-alternatives/01-introduction-to-commo/11-commodity-indexes/
+prev: /cfa/study/08-alternatives/01-introduction-to-commo/10-commodity-swaps/
+---
 ## Summary: Commodity Indexes (CFA Level II — Alternative Investments)
 
 ---
