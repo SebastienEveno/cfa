@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ESG Considerations in Investment Analysis — Module 2 Wrap-Up
-permalink: /study/04-corporate-issuers/02-esg/06-summary/
-prev: /cfa/study/04-corporate-issuers/02-esg/05-evaluating-esg-related-risks/
+permalink: /study/04-corporate-issuers/02-esg-considerations/06-summary/
+prev: /cfa/study/04-corporate-issuers/02-esg-considerations/05-evaluating-esg-related-risks/
 next: /cfa/study/04-corporate-issuers/03-cost-of-capital/01-introduction/
 ---
 

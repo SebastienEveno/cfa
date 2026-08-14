@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ESG Considerations in Investment Analysis — Introduction
-permalink: /study/04-corporate-issuers/02-esg/01-esg-introduction/
-prev: /cfa/study/04-corporate-issuers/07-corporate-summary/
-next: /cfa/study/04-corporate-issuers/02-esg/02-ownership-governance/
+permalink: /study/04-corporate-issuers/02-esg-considerations/01-esg-introduction/
+prev: /cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/07-corporate-summary/
+next: /cfa/study/04-corporate-issuers/02-esg-considerations/02-ownership-governance/
 ---
 
 ---

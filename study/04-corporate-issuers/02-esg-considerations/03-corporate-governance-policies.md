@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Evaluating Corporate Governance Policies & Practices
-permalink: /study/04-corporate-issuers/02-esg/03-corporate-governance-policies/
-prev: /cfa/study/04-corporate-issuers/02-esg/02-ownership-governance/
-next: /cfa/study/04-corporate-issuers/02-esg/04-identifying-esg-related-risks/
+permalink: /study/04-corporate-issuers/02-esg-considerations/03-corporate-governance-policies/
+prev: /cfa/study/04-corporate-issuers/02-esg-considerations/02-ownership-governance/
+next: /cfa/study/04-corporate-issuers/02-esg-considerations/04-identifying-esg-related-risks/
 ---
 
 ---

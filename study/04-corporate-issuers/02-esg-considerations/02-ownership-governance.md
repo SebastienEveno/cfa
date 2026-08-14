@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Ownership Structures & Corporate Governance
-permalink: /study/04-corporate-issuers/02-esg/02-ownership-governance/
-prev: /cfa/study/04-corporate-issuers/02-esg/01-esg-introduction/
-next: /cfa/study/04-corporate-issuers/02-esg/03-corporate-governance-policies/
+permalink: /study/04-corporate-issuers/02-esg-considerations/02-ownership-governance/
+prev: /cfa/study/04-corporate-issuers/02-esg-considerations/01-esg-introduction/
+next: /cfa/study/04-corporate-issuers/02-esg-considerations/03-corporate-governance-policies/
 ---
 
 ---
