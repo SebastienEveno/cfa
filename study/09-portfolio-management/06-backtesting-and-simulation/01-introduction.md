@@ -2,6 +2,7 @@
 layout: page
 title: "Backtesting and Simulation — Introduction"
 permalink: /study/09-portfolio-management/06-backtesting-and-simulation/01-introduction/
+next: /cfa/study/09-portfolio-management/06-backtesting-and-simulation/02-objectives-of-backtesting/
 ---
 ## Summary: Backtesting and Simulation — Introduction (CFA Level II — Portfolio Management)
 

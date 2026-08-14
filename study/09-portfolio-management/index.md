@@ -104,4 +104,12 @@ Value at Risk (parametric, historical simulation, and Monte Carlo methods), sens
 
 Techniques for evaluating investment strategies before deployment.
 
-- **[Backtesting and Simulation — Introduction](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/01-introduction/)** — The SWF Fund case study and the four evaluation techniques
+- **[6.01 | Introduction](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/01-introduction/)** — The SWF Fund case study and the four evaluation techniques
+- **[6.02 | The Objectives of Backtesting](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/02-objectives-of-backtesting/)** — Approximating the real-life investment process
+- **[6.03 | The Backtesting Process](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/03-the-backtesting-process/)** — Rolling-window backtesting mechanics
+- **[6.04 | Backtesting Multifactor Models](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/04-backtesting-multifactor-models/)** — Applying the process to multifactor strategies
+- **[6.05 | Common Problems in Backtesting](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/05-common-problem-in-backtesting/)** — Survivorship bias, look-ahead bias, and data snooping
+- **[6.06 | Historical Scenario Analysis](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/06-historical-scenario-analysis/)** — Testing strategies across structural regimes
+- **[6.07 | Simulation Analysis](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/07-simulation-analysis/)** — Historical and Monte Carlo simulation
+- **[6.08 | Sensitivity Analysis](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/08-sensitivity-analysis/)** — Testing the impact of input assumptions
+- **[6.09 | Summary — Module 6](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/09-summary/)** — Full module recap and review checklist
