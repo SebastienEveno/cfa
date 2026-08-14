@@ -14,30 +14,30 @@ Economics and investment markets, active management analysis, ETFs, multifactor 
 
 The present value model, discount rate components, the yield curve and business cycle, credit and equity risk premiums, and valuation multiples.
 
-- **[1.02 | The Present Value Model](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/02-present-value-model/)** — How economic factors transmit to market values
-- **[1.03 | Expectations and Asset Values](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/03-expectations-asset-values/)** — Forming expectations about cash flows and discount rates
-- **[1.04 | The Discount Rate on Real Default-Free Bonds: Interest Rates](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/04-discount-rate-real-default-free-bonds/)** — Real interest rate fundamentals
-- **[1.05 | Uncertainty and Risk Premiums](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/05-uncertainty-and-risk-premium/)** — The nature of the risk premium
-- **[1.06 | Risk Premiums on Risky Assets](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/06-risk-premiums-on-risky-assets/)** — Extending the discount rate framework to risky assets
-- **[1.07 | Default-Free Interest Rates and Economic Growth](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/07-default-free-interest-rates-economic-growth/)** — Growth's effect on real rates
-- **[1.08 | Real Default-Free Interest Rates and the Business Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/08-real-default-free-bonds-interest-rates/)** — Rates across the business cycle
-- **[1.09 | The Yield Curve and the Business Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/09-yield-curve-and-business-cycle/)** — Yield curve shape as a cycle indicator
-- **[1.10 | Treasury Bills and the Business Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/10-treasury-bills-and-business-cycle/)** — Short-end rate behavior
-- **[1.11 | Conventional Government Bonds and Break-even Inflation Rates](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/11-conventional-gov-bonds/)** — Nominal vs. real government bonds
-- **[1.12 | The Default-Free Yield Curve and the Business Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/12-default-free-yield-curve/)** — Curve dynamics through the cycle
-- **[1.13 | The Slope of the Yield Curve and the Term Spread](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/13-slope-of-yield-curve-and-term-spread/)** — Term spread as a forecasting tool
-- **[1.14 | Evidence on Risk Premiums for Default-Free Bonds](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/14-evidence-risk-premiums-for-default-free-bonds/)** — Empirical evidence on bond risk premiums
-- **[1.15 | Other Factors](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/15-other-factors/)** — Additional drivers of bond pricing
-- **[1.16 | Credit Premiums and the Business Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/16-credit-premiums/)** — Credit spreads through the cycle
-- **[1.17 | Industry- and Company-Specific Credit Quality](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/17-industry-and-company-credit-quality/)** — Credit quality drivers below the sovereign level
-- **[1.18 | Sovereign Credit Risk](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/18-sovereign-credit-risk/)** — Assessing government credit risk
-- **[1.19 | Equities and the Equity Risk Premium](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/19-equity-risk-premium/)** — Foundations of the equity risk premium
-- **[1.20 | Earnings Growth and the Economic Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/20-earnings-growth-economic-cycle/)** — Earnings growth drivers over the cycle
-- **[1.21 | How Big is the Equity Risk Premium?](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/21-how-big-risk-premium/)** — Estimating the ERP
-- **[1.22 | Valuation Multiples](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/22-valuation-multiples/)** — Multiples as a market-level valuation tool
-- **[1.23 | Commercial Real Estate](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/23-commercial-real-estate/)** — Commercial real estate as an asset class
-- **[1.24 | Commercial Real Estate and the Business Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/24-commercial-real-estate-business-cycle/)** — Real estate performance through the cycle
-- **[1.25 | Summary — Module 1](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/25-summary/)** — Module 1 wrap-up
+- **[1.02 — The Present Value Model](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/02-present-value-model/)** — How economic factors transmit to market values
+- **[1.03 — Expectations and Asset Values](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/03-expectations-asset-values/)** — Forming expectations about cash flows and discount rates
+- **[1.04 — The Discount Rate on Real Default-Free Bonds: Interest Rates](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/04-discount-rate-real-default-free-bonds/)** — Real interest rate fundamentals
+- **[1.05 — Uncertainty and Risk Premiums](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/05-uncertainty-and-risk-premium/)** — The nature of the risk premium
+- **[1.06 — Risk Premiums on Risky Assets](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/06-risk-premiums-on-risky-assets/)** — Extending the discount rate framework to risky assets
+- **[1.07 — Default-Free Interest Rates and Economic Growth](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/07-default-free-interest-rates-economic-growth/)** — Growth's effect on real rates
+- **[1.08 — Real Default-Free Interest Rates and the Business Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/08-real-default-free-bonds-interest-rates/)** — Rates across the business cycle
+- **[1.09 — The Yield Curve and the Business Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/09-yield-curve-and-business-cycle/)** — Yield curve shape as a cycle indicator
+- **[1.10 — Treasury Bills and the Business Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/10-treasury-bills-and-business-cycle/)** — Short-end rate behavior
+- **[1.11 — Conventional Government Bonds and Break-even Inflation Rates](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/11-conventional-gov-bonds/)** — Nominal vs. real government bonds
+- **[1.12 — The Default-Free Yield Curve and the Business Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/12-default-free-yield-curve/)** — Curve dynamics through the cycle
+- **[1.13 — The Slope of the Yield Curve and the Term Spread](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/13-slope-of-yield-curve-and-term-spread/)** — Term spread as a forecasting tool
+- **[1.14 — Evidence on Risk Premiums for Default-Free Bonds](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/14-evidence-risk-premiums-for-default-free-bonds/)** — Empirical evidence on bond risk premiums
+- **[1.15 — Other Factors](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/15-other-factors/)** — Additional drivers of bond pricing
+- **[1.16 — Credit Premiums and the Business Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/16-credit-premiums/)** — Credit spreads through the cycle
+- **[1.17 — Industry- and Company-Specific Credit Quality](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/17-industry-and-company-credit-quality/)** — Credit quality drivers below the sovereign level
+- **[1.18 — Sovereign Credit Risk](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/18-sovereign-credit-risk/)** — Assessing government credit risk
+- **[1.19 — Equities and the Equity Risk Premium](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/19-equity-risk-premium/)** — Foundations of the equity risk premium
+- **[1.20 — Earnings Growth and the Economic Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/20-earnings-growth-economic-cycle/)** — Earnings growth drivers over the cycle
+- **[1.21 — How Big is the Equity Risk Premium?](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/21-how-big-risk-premium/)** — Estimating the ERP
+- **[1.22 — Valuation Multiples](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/22-valuation-multiples/)** — Multiples as a market-level valuation tool
+- **[1.23 — Commercial Real Estate](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/23-commercial-real-estate/)** — Commercial real estate as an asset class
+- **[1.24 — Commercial Real Estate and the Business Cycle](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/24-commercial-real-estate-business-cycle/)** — Real estate performance through the cycle
+- **[1.25 — Summary — Module 1](/cfa/study/09-portfolio-management/01-economics-and-investment-markets/25-summary/)** — Module 1 wrap-up
 
 ---
 
@@ -104,12 +104,12 @@ Value at Risk (parametric, historical simulation, and Monte Carlo methods), sens
 
 Techniques for evaluating investment strategies before deployment.
 
-- **[6.01 | Introduction](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/01-introduction/)** — The SWF Fund case study and the four evaluation techniques
-- **[6.02 | The Objectives of Backtesting](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/02-objectives-of-backtesting/)** — Approximating the real-life investment process
-- **[6.03 | The Backtesting Process](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/03-the-backtesting-process/)** — Rolling-window backtesting mechanics
-- **[6.04 | Backtesting Multifactor Models](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/04-backtesting-multifactor-models/)** — Applying the process to multifactor strategies
-- **[6.05 | Common Problems in Backtesting](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/05-common-problem-in-backtesting/)** — Survivorship bias, look-ahead bias, and data snooping
-- **[6.06 | Historical Scenario Analysis](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/06-historical-scenario-analysis/)** — Testing strategies across structural regimes
-- **[6.07 | Simulation Analysis](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/07-simulation-analysis/)** — Historical and Monte Carlo simulation
-- **[6.08 | Sensitivity Analysis](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/08-sensitivity-analysis/)** — Testing the impact of input assumptions
-- **[6.09 | Summary — Module 6](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/09-summary/)** — Full module recap and review checklist
+- **[6.01 — Introduction](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/01-introduction/)** — The SWF Fund case study and the four evaluation techniques
+- **[6.02 — The Objectives of Backtesting](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/02-objectives-of-backtesting/)** — Approximating the real-life investment process
+- **[6.03 — The Backtesting Process](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/03-the-backtesting-process/)** — Rolling-window backtesting mechanics
+- **[6.04 — Backtesting Multifactor Models](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/04-backtesting-multifactor-models/)** — Applying the process to multifactor strategies
+- **[6.05 — Common Problems in Backtesting](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/05-common-problem-in-backtesting/)** — Survivorship bias, look-ahead bias, and data snooping
+- **[6.06 — Historical Scenario Analysis](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/06-historical-scenario-analysis/)** — Testing strategies across structural regimes
+- **[6.07 — Simulation Analysis](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/07-simulation-analysis/)** — Historical and Monte Carlo simulation
+- **[6.08 — Sensitivity Analysis](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/08-sensitivity-analysis/)** — Testing the impact of input assumptions
+- **[6.09 — Summary — Module 6](/cfa/study/09-portfolio-management/06-backtesting-and-simulation/09-summary/)** — Full module recap and review checklist
