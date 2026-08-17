@@ -12,6 +12,20 @@ Comprehensive study materials and notes for the **Chartered Financial Analyst (C
 
 ## 📖 Study Topics
 
+### [Quantitative Methods](/cfa/study/01-quantitative-methods/)
+
+Multiple regression, model diagnostics, time-series analysis, machine learning, and big data techniques for investment analysis.
+
+- 📈 [Basics of Multiple Regression and Underlying Assumptions](/cfa/study/01-quantitative-methods/01-multiple-regression-basics/01-multiple-regression-basics/) — The regression equation, coefficient interpretation, and the five underlying assumptions
+- 📊 [Evaluating Regression Model Fit and Interpreting Model Results](/cfa/study/01-quantitative-methods/02-regression-model-fit/01-goodness-of-fit/) — R², adjusted R², joint hypothesis tests, and forecasting
+- ⚠️ [Model Misspecification](/cfa/study/01-quantitative-methods/03-model-misspecification/01-model-specification-errors/) — Specification errors, heteroskedasticity, serial correlation, and multicollinearity
+- 🔀 [Extensions of Multiple Regression](/cfa/study/01-quantitative-methods/04-regression-extensions/01-influence-analysis/) — Influential observations, dummy variables, and logistic regression
+- ⏱️ [Time-Series Analysis](/cfa/study/01-quantitative-methods/05-time-series-analysis/01-trend-models/) — Trend models, AR/MA models, unit roots, seasonality, ARCH, and cointegration
+- 🤖 [Machine Learning](/cfa/study/01-quantitative-methods/06-machine-learning/01-introduction-to-machine-learning/) — Penalized regression, SVM, KNN, CART, random forest, PCA, clustering, and neural networks
+- 🗂️ [Big Data Projects](/cfa/study/01-quantitative-methods/07-big-data-projects/01-big-data-and-the-ml-project-pipeline/) — The ML project pipeline, text data wrangling, feature engineering, and model evaluation
+
+---
+
 ### [Corporate Issuers](/cfa/study/04-corporate-issuers/)
 
 Corporate financial management, capital structure, shareholder returns, ESG, and restructuring.
