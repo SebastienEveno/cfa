@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Opportunistic Strategies: Global Macro Strategies"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/09-opportunistic-strategies-global-macro/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/08-relative-value-strategies-convertible-bond-arbitrage/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/10-opportunistic-strategies-managed-futures/
+---
 ## Summary: 4.09 | Opportunistic Strategies: Global Macro Strategies (CFA Level II — Alternative Investments)
 
 ---

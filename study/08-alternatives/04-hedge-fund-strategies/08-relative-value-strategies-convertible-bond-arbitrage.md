@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Relative Value Strategies: Convertible Bond Arbitrage"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/08-relative-value-strategies-convertible-bond-arbitrage/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/07-relative-value-strategies-fixed-income-arbitrage/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/09-opportunistic-strategies-global-macro/
+---
 ## Summary: 4.08 | Relative Value Strategies: Convertible Bond Arbitrage (CFA Level II — Alternative Investments)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Relative Value Strategies: Fixed-Income Arbitrage"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/07-relative-value-strategies-fixed-income-arbitrage/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/06-event-driven-strategies-distressed-securities/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/08-relative-value-strategies-convertible-bond-arbitrage/
+---
 ## Summary: 4.07 | Relative Value Strategies: Fixed-Income Arbitrage (CFA Level II — Alternative Investments)
 
 ---

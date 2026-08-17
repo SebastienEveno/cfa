@@ -82,11 +82,12 @@ Pricing and valuation of forward commitments and contingent claims.
 
 ### [Alternative Investments](/cfa/study/08-alternatives/)
 
-Commodities, real estate investments, and publicly traded real estate securities.
+Commodities, real estate investments, publicly traded real estate securities, and hedge fund strategies.
 
 - 🛢️ [Introduction to Commodities](/cfa/study/08-alternatives/01-introduction-to-commo/03-life-cycle-commodities/) — Sector life cycles, futures pricing, roll return, swaps, and indexes
 - 🏘️ [Real Estate Investments](/cfa/study/08-alternatives/02-real-estate-investments/02-real-estate-invesment-features/) — NOI, leverage measures, valuation approaches, and due diligence
 - 🏢 [Publicly Traded Real Estate Securities](/cfa/study/08-alternatives/03-publicly-traded-securities/02-types-of-publicly-traded-securities/) — REITs, REOCs, NAV and relative value approaches
+- 🦑 [Hedge Fund Strategies](/cfa/study/08-alternatives/04-hedge-fund-strategies/01-introduction/) — Equity, event-driven, relative value, opportunistic, and multi-manager strategies, plus a conditional factor risk model
 
 ---
 

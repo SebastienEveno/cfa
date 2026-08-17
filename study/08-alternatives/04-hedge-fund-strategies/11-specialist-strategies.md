@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Specialist Strategies"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/11-specialist-strategies/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/10-opportunistic-strategies-managed-futures/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/12-multi-manager-strategies/
+---
 ## Summary: 4.11 | Specialist Strategies (CFA Level II — Alternative Investments)
 
 ---

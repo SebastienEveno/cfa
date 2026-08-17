@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Introduction and Classification of Hedge Fund Strategies"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/01-introduction/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/02-equity-strategies-long-short/
+---
 ## Summary: 4.01 | Introduction and Classification of Hedge Fund Strategies (CFA Level II — Alternative Investments)
 
 ---

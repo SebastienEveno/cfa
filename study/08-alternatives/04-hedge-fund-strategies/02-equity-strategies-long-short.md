@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Equity Strategies: Long/Short Equity"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/02-equity-strategies-long-short/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/01-introduction/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/03-equity-strategies-dedicated-short-selling/
+---
 ## Summary: 4.02 | Equity Strategies: Long/Short Equity (CFA Level II — Alternative Investments)
 
 ---

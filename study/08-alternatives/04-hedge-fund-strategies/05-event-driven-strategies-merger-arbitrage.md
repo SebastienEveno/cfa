@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Event-Driven Strategies: Merger Arbitrage"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/05-event-driven-strategies-merger-arbitrage/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/04-equity-strategies-equity-market-neutral/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/06-event-driven-strategies-distressed-securities/
+---
 ## Summary: 4.05 | Event-Driven Strategies: Merger Arbitrage (CFA Level II — Alternative Investments)
 
 ---

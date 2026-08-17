@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Evaluating Multi-Manager Hedge Fund Strategies: Application"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/15-evaluating-multi-manager-strategies-application/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/14-evaluating-equity-strategies-application/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/16-portfolio-contribution-hedge-fund-strategies/
+---
 ## Summary: 4.15 | Evaluating Multi-Manager Hedge Fund Strategies: Application (CFA Level II — Alternative Investments)
 
 ---
