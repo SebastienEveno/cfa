@@ -26,6 +26,15 @@ Multiple regression, model diagnostics, time-series analysis, machine learning, 
 
 ---
 
+### [Economics](/cfa/study/02-economics/)
+
+Currency exchange rate determination and the drivers of long-run economic growth.
+
+- 💱 [Currency Exchange Rates](/cfa/study/02-economics/01-currency-exchange-rates/01-fx-market-concepts-and-arbitrage/) — FX arbitrage, parity conditions, the carry trade, and Mundell–Fleming
+- 🌍 [Economic Growth](/cfa/study/02-economics/02-economic-growth/01-growth-fundamentals-and-investors/) — Growth accounting, classical/neoclassical/endogenous growth models, and convergence
+
+---
+
 ### [Corporate Issuers](/cfa/study/04-corporate-issuers/)
 
 Corporate financial management, capital structure, shareholder returns, ESG, and restructuring.
