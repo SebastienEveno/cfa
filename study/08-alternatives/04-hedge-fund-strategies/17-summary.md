@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Summary — Module 4: Hedge Fund Strategies"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/17-summary/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/16-portfolio-contribution-hedge-fund-strategies/
+---
 ## Summary: 4.17 | Summary — Module 4: Hedge Fund Strategies (CFA Level II — Alternative Investments)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Multi-Manager Strategies"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/12-multi-manager-strategies/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/11-specialist-strategies/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/13-conditional-risk-factor-model/
+---
 ## Summary: 4.12 | Multi-Manager Strategies (CFA Level II — Alternative Investments)
 
 ---

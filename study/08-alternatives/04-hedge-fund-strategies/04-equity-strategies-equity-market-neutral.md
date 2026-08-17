@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Equity Strategies: Equity Market Neutral"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/04-equity-strategies-equity-market-neutral/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/03-equity-strategies-dedicated-short-selling/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/05-event-driven-strategies-merger-arbitrage/
+---
 ## Summary: 4.04 | Equity Strategies: Equity Market Neutral (CFA Level II — Alternative Investments)
 
 ---

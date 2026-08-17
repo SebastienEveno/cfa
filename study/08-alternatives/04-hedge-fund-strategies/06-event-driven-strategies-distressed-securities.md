@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Event-Driven Strategies: Distressed Securities"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/06-event-driven-strategies-distressed-securities/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/05-event-driven-strategies-merger-arbitrage/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/07-relative-value-strategies-fixed-income-arbitrage/
+---
 ## Summary: 4.06 | Event-Driven Strategies: Distressed Securities (CFA Level II — Alternative Investments)
 
 ---

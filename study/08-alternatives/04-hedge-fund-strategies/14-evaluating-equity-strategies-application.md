@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Evaluating Equity Hedge Fund Strategies: Application"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/14-evaluating-equity-strategies-application/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/13-conditional-risk-factor-model/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/15-evaluating-multi-manager-strategies-application/
+---
 ## Summary: 4.14 | Evaluating Equity Hedge Fund Strategies: Application (CFA Level II — Alternative Investments)
 
 ---

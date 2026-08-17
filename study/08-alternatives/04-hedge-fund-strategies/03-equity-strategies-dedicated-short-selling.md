@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Equity Strategies: Dedicated Short Selling and Short-Biased"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/03-equity-strategies-dedicated-short-selling/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/02-equity-strategies-long-short/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/04-equity-strategies-equity-market-neutral/
+---
 ## Summary: 4.03 | Equity Strategies: Dedicated Short Selling and Short-Biased (CFA Level II — Alternative Investments)
 
 ---

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Analysis of Hedge Fund Strategies Using a Conditional Factor Risk Model"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/13-conditional-risk-factor-model/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/12-multi-manager-strategies/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/14-evaluating-equity-strategies-application/
+---
 ## Summary: 4.13 | Analysis of Hedge Fund Strategies Using a Conditional Factor Risk Model (CFA Level II — Alternative Investments)
 
 ---

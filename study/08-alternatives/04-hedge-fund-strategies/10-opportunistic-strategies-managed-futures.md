@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Opportunistic Strategies: Managed Futures"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/10-opportunistic-strategies-managed-futures/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/09-opportunistic-strategies-global-macro/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/11-specialist-strategies/
+---
 ## Summary: 4.10 | Opportunistic Strategies: Managed Futures (CFA Level II — Alternative Investments)
 
 ---

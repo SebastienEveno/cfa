@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Portfolio Contribution of Hedge Fund Strategies"
+permalink: /study/08-alternatives/04-hedge-fund-strategies/16-portfolio-contribution-hedge-fund-strategies/
+prev: /cfa/study/08-alternatives/04-hedge-fund-strategies/15-evaluating-multi-manager-strategies-application/
+next: /cfa/study/08-alternatives/04-hedge-fund-strategies/17-summary/
+---
 ## Summary: 4.16 | Portfolio Contribution of Hedge Fund Strategies (CFA Level II — Alternative Investments)
 
 ---
