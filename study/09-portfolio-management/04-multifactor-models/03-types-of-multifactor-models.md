@@ -192,6 +192,7 @@ $$= 0.525\% + 1.700\% + 0.0875\% + 1.150\% = \mathbf{3.4625\%}$$
 **Definition**: Factors that apply **thematically across asset classes** — not limited to equity or fixed income specifically.
 
 **Common cross-asset style factors:**
+
 | Factor | Typical Definition |
 |--------|----------------------|
 | **Value** | Real (inflation-adjusted) yield |

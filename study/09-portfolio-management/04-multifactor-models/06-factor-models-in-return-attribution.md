@@ -98,6 +98,7 @@ $$\boxed{\text{Manager mandate: large-cap, style-neutral} \implies \text{Actual 
 **Dominant driver**: **HML factor tilt** contributed **~98%** of the total 2.07% active return.
 
 **Breakdown by factor:**
+
 | Factor | Contribution | Assessment |
 |--------|---------------|-------------|
 | RMRF | **−13.3%** of active return (unprofitable) | Small underweight to market beta hurt |

@@ -69,6 +69,7 @@ next: /cfa/study/05-equity-valuation/04-market-based-valuation/02-price-to-earni
 - Forecasted fundamentals (DCF-derived)
 
 **Decision rule:**
+
 | Comparison | Interpretation |
 |-----------|---------------|
 | Justified multiple **>** actual multiple | Stock may be **undervalued** |

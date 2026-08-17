@@ -124,6 +124,7 @@ $$\boxed{V_{EQ,t} = V_{FIX}(C_0) - \frac{S_t}{S_{t-1}} \times NA_E - PV(Par - NA
 - $PV(Par - NA_E)$ = present value adjustment if bond par ≠ equity notional (usually = 0 when $Par = NA_E$)
 
 **Value direction:**
+
 | Condition | Effect on Receive-Fixed, Pay-Equity Party |
 |-----------|------------------------------------------|
 | Equity rises ($S_t > S_{t-1}$) | $V_{EQ,t}$ decreases (paying more equity return) |

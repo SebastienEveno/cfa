@@ -130,7 +130,7 @@ $$\boxed{\text{After-tax CF} = \text{Pre-tax CF} - \text{Taxes}}$$
 
 $$\boxed{\text{Taxes} = t \times (NOI - \text{Interest expense} - \text{Depreciation expense})}$$
 
-$$\boxed{\text{Annual depreciation} = \frac{\text{Depreciable base}}{\text{Useful life}}} \quad \text{where Depreciable base} = \text{Total cost} - \text{Land value}}$$
+$$\boxed{\text{Annual depreciation} = \frac{\text{Depreciable base}}{\text{Useful life}}} \quad \text{where Depreciable base} = \text{Total cost} - \text{Land value}$$
 
 **Land is NOT depreciated** (assumed infinite useful life).
 
@@ -166,6 +166,7 @@ $$\boxed{\text{Annual depreciation} = \frac{\text{Depreciable base}}{\text{Usefu
 $$\boxed{FFO = \text{Net income} + \text{Depreciation} + \text{Amortization} - \text{Net gains from property sales}}$$
 
 #### 2. Business Cycle Sensitivity
+
 | REIT Type | Cycle Sensitivity |
 |-----------|-----------------|
 | Health care REITs | **Defensive** — stable demand regardless of cycle |

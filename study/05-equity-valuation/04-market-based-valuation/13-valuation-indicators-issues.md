@@ -26,6 +26,7 @@ next: /cfa/study/05-equity-valuation/04-market-based-valuation/14-summary/
 $$\text{Harmonic mean} < \text{Arithmetic mean}$$
 
 **Portfolio P/E example:**
+
 | Method | P/E |
 |--------|-----|
 | Arithmetic mean | **15.00** |
@@ -36,6 +37,7 @@ $$\text{Harmonic mean} < \text{Arithmetic mean}$$
 > **Weighted harmonic mean** = exact portfolio P/E (ratio of total market cap to total earnings). Index fund vendors use this for average P/E of indexes.
 
 **Telecom example (with Charter at 70.67×):**
+
 | Method | With Charter | Without Charter |
 |--------|-------------|----------------|
 | Arithmetic mean | **25.30** | 16.43 |

@@ -49,6 +49,7 @@ Since Gretna's debt is **thinly traded** (no reliable YTM) → use **matrix pric
 **Process:**
 
 **Step 1**: Calculate YTM for each comparable bond:
+
 | Bond | Maturity | YTM |
 |------|---------|-----|
 | Bond 1 | 4yr | 5.140% |

@@ -23,6 +23,7 @@ This section applies the fundamental law of active management ($IR = TC \times I
 **Universe**: 24 MSCI market indexes (21 EAFE markets + US + Canada + Emerging Markets)
 
 **Scoring system**: Five values representing manager forecasts:
+
 | Score | Meaning |
 |-------|---------|
 | +2.0 | Strong outperformance |
@@ -95,6 +96,7 @@ $$IR = 0.997 \times 0.105 \times \sqrt{24.5} = \mathbf{0.52} ✓$$
 **Two constrained versions using the SAME forecasts as Exhibit 7:**
 
 #### Version 1: Long-only + ±10% max active weight
+
 | Parameter | Value |
 |-----------|-------|
 | TC | **0.694** (down from 0.995) |
@@ -110,6 +112,7 @@ $$IR = 0.694 \times 0.099 \times \sqrt{24.5} = \mathbf{0.34}$$
 > **Expected active return and IR reduced by ~1/3** due to constraints alone (0.98%→0.68%; 0.49→0.34)
 
 #### Version 2: Same constraints + increased active risk target (3.00%)
+
 | Parameter | Value |
 |-----------|-------|
 | TC | **0.567** (further reduced!) |

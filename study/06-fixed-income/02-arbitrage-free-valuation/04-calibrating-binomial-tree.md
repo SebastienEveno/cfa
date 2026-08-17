@@ -50,6 +50,7 @@ Step 4: Continue iteratively for each subsequent year
 $$i_{1,L} = 1.1943\% \qquad i_{1,H} = 1.1943\% \times e^{0.30} = 1.6121\%$$
 
 **Verification:**
+
 | Node | Calculation | Value |
 |------|-------------|-------|
 | Upper | $101.20/1.016121$ | 99.5944 |

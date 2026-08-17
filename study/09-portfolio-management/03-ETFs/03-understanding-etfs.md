@@ -27,6 +27,7 @@ next: /cfa/study/09-portfolio-management/03-ETFs/04-etf-risks/
 - Index-based management avoids active research costs
 
 **Typical fees (end of 2018, lowest-cost broad indexes):**
+
 | Category | Expense Ratio |
 |----------|----------------|
 | US equities (cap-weighted) | 0.03% |

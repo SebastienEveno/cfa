@@ -91,6 +91,7 @@ $$r_e - r_f = \alpha + \beta_m(\text{ERP}) + \beta_{\text{SMB}}(\text{SMB}) + \b
 | HML (High Minus Low) | Value premium | High book-to-market outperformance |
 
 #### Five-Factor Model (adds):
+
 | Factor | Premium | Captures |
 |--------|---------|---------|
 | RMW (Robust Minus Weak) | Profitability premium | High vs. low profitability |
