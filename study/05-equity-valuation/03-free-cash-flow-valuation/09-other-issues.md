@@ -14,6 +14,7 @@ next: /cfa/study/05-equity-valuation/03-free-cash-flow-valuation/10-free-cash-fl
 **Non-articulation**: When changes in balance sheet working capital accounts don't match the amounts reported in the statement of cash flows.
 
 **Common causes:**
+
 | Cause | Example |
 |-------|---------|
 | **Acquisitions/divestitures** | Inventory increase from an acquisition is an *investing* activity, not operating — but appears as a balance sheet change |
@@ -78,6 +79,7 @@ Net income **omits**:
 $$FCFF = EBITDA(1-t) + Dep(t) - FCInv - WCInv$$
 
 **EBITDA's problems as a proxy:**
+
 | Issue | Why It Matters |
 |-------|----------------|
 | **Ignores taxes** | EBITDA is pre-tax; FCFF is after-tax |

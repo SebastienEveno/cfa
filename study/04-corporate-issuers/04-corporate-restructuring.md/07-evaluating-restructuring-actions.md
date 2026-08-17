@@ -105,6 +105,7 @@ $$\text{Required reduction} = 3,798 - 2,659 = \mathbf{€1,139M\ (7\%\ of\ OpEx)
 - Key motivation: currently **speculative-grade rated** → improvement to **investment-grade** would lower cost of capital
 
 ### Transaction Terms
+
 | Item | Value |
 |------|-------|
 | Cash proceeds | CHF 425M |
@@ -117,6 +118,7 @@ $$\text{Required reduction} = 3,798 - 2,659 = \mathbf{€1,139M\ (7\%\ of\ OpEx)
 ### Cap Rate Evaluation
 
 **Lower cap rate = higher valuation for seller:**
+
 | Percentile | Cap Rate |
 |-----------|---------|
 | 25th | 3.0% |

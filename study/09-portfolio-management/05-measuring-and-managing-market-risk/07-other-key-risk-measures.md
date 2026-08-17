@@ -27,6 +27,7 @@ $$\boxed{E(R_i) = R_F + \beta_i[E(R_M) - R_F]}$$
 $$\boxed{\beta_i = \frac{Cov(R_i, R_M)}{Var(R_M)}}$$
 
 **Interpretation:**
+
 | Beta Value | Meaning |
 |------------|---------|
 | **1.0** | Market average volatility (broad market beta) |

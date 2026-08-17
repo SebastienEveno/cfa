@@ -135,6 +135,7 @@ $$\boxed{\text{Portfolio for VaR calculation} = \text{Actual holdings} - \text{B
 **Expression**: Typically a **one standard deviation, annualized** measure.
 
 **Interpretation:**
+
 | Scenario | Ex Ante Tracking Error |
 |----------|---------------------------|
 | Portfolio = perfect benchmark match | **At or near zero** |

@@ -184,6 +184,7 @@ $$IR = 0.18 \times \sqrt{9.4} = \mathbf{0.55}$$
 **Setup**: 4 assets; #1-#2 correlated (0.25); #3-#4 correlated (0.25); all cross-pairs uncorrelated
 
 **Correlation matrix:**
+
 | | #1 | #2 | #3 | #4 |
 |-|-----|-----|-----|-----|
 | #1 | 1.00 | 0.25 | 0.00 | 0.00 |

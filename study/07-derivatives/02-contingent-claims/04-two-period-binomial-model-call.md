@@ -86,6 +86,7 @@ $$\boxed{c = \frac{\pi^2 c^{++} + 2\pi(1-\pi)c^{+-} + (1-\pi)^2 c^{--}}{(1+r)^2}
 $$\boxed{p = \frac{\pi^2 p^{++} + 2\pi(1-\pi)p^{+-} + (1-\pi)^2 p^{--}}{(1+r)^2}}$$
 
 **Path probability interpretation:**
+
 | Path | Probability |
 |------|------------|
 | Up-Up | $\pi^2$ |

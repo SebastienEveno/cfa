@@ -95,6 +95,7 @@ $$FV = 10(1.07)(1.09)(1.111)(1.131) + \ldots + 110 \approx 162.22$$
 $$\boxed{\text{Price change} \iff \text{Spot curve deviates from today's forward curve forecast}}$$
 
 **Trading implication:**
+
 | Expectation | Action |
 |-------------|--------|
 | Future spot rate **< forward rate** implied today | **Buy** forward (expect forward price to rise) |

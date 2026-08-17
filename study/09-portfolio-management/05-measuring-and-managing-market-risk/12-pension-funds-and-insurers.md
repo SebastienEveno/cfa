@@ -80,6 +80,7 @@ $$\boxed{\text{This liability-focused approach} = \text{"Liability Driven Invest
 #### 3. Liability-Hedging vs. Return-Generating Exposures
 
 **Portfolio split**:
+
 | Portion | Purpose |
 |---------|---------|
 | **Liability-hedging** | Match the pension liability cash flows |

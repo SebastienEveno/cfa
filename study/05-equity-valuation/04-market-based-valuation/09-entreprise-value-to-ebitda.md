@@ -63,6 +63,7 @@ $$\boxed{EBITDA = \text{Net income} + \text{Interest expense} + \text{Income tax
 ### Worked Example (Colgate-Palmolive)
 
 **EV Calculation:**
+
 | Component | Value |
 |-----------|-------|
 | Market cap (863M × $66.48) | $57,372M |

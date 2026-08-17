@@ -27,6 +27,7 @@ $$r_d = r_f + \text{Credit spread} \qquad r_e = R_f + \beta \times ERP$$
 - Less developed markets: may rely on bank loans or **shadow banking** → higher costs
 
 #### 2. Market Conditions
+
 | Condition | Effect on Cost of Capital |
 |-----------|--------------------------|
 | Low interest rates | ↓ Cost of debt and equity |

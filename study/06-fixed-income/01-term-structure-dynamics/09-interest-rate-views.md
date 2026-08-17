@@ -85,18 +85,21 @@ Also called: **term premium** or **duration premium**.
 ### Trading Strategies Based on Rate Views
 
 **Rate level views:**
+
 | View | Action |
 |------|--------|
 | Rates will **fall** | **Extend portfolio duration** (benefit from rising bond prices) |
 | Rates will **rise** | **Shorten portfolio duration** (reduce exposure to falling bond prices) |
 
 **Curve shape views (often designed to be duration-neutral):**
+
 | View | Trade |
 |------|-------|
 | Curve **steepens** (long rates rise relative to short) | **Short long-term bonds + buy short-term bonds** |
 | Curve **flattens** (short rates rise relative to long) | **Buy long-term bonds + short short-term bonds** |
 
 **Bullet vs. Barbell:**
+
 | Portfolio Type | Description | Best For |
 |---------------|-------------|---------|
 | **Bullet** | Concentrated at single maturity | Steepening environment |

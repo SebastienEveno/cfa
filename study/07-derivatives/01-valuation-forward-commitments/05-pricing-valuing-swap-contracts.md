@@ -139,6 +139,7 @@ $$\boxed{V_{swap,t} = NA \times (FS_0 - FS_t) \times \sum_{i=1}^{n} PV_i}$$
 $$\boxed{-V_{swap,t} = NA \times (FS_t - FS_0) \times \sum_{i=1}^{n} PV_i}$$
 
 **Direction logic:**
+
 | Position | Benefits when | Sign of value |
 |----------|--------------|---------------|
 | **Receive-fixed** (long fixed bond) | $FS_0 > FS_t$ (rates fell since initiation) | Positive |
