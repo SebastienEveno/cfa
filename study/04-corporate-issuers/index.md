@@ -14,12 +14,15 @@ Comprehensive analysis of corporate financial management, valuation, and shareho
 
 Understand corporate payout policies and capital return strategies.
 
-- **[Payout Policies](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/02-payout-policies/)** - Corporate dividend and cash return policies
-- **[Share Repurchases](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/03-share-repurchases/)** - Analysis of share buyback programs
-- **[Valuation Equivalence](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/04-valuation-equivalence/)** - Understanding valuation principles
-- **[Dividend vs. Share Repurchase Decision](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/05-dividend-vs-repurchase/)** - Comparative analysis of capital returns
-- **[Analysis of Dividend Safety](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/06-dividend-safety/)** - Evaluate dividend sustainability and safety metrics
-- **[Module 1 Summary](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/07-corporate-summary/)** - Key takeaways and review
+- **[Dividend Forms and Effects on Shareholder Wealth](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/01-dividend-forms-and-effects/)** - Dividend types and their effects on wealth and financial ratios
+- **[Dividend Policy Theories](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/02-dividend-policy-theories/)** - Irrelevance, bird-in-hand, tax, signaling, and agency-cost theories
+- **[Factors Affecting Dividend Policy in Practice](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/03-factors-affecting-dividend-policy/)** - Investment opportunities, taxes, flotation costs, and legal restrictions
+- **[Payout Policies](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/04-payout-policies/)** - Corporate dividend and cash return policies
+- **[Share Repurchases](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/05-share-repurchases/)** - Analysis of share buyback programs
+- **[Valuation Equivalence](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/06-valuation-equivalence/)** - Understanding valuation principles
+- **[Dividend vs. Share Repurchase Decision](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/07-dividend-vs-repurchase/)** - Comparative analysis of capital returns
+- **[Analysis of Dividend Safety](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/08-dividend-safety/)** - Evaluate dividend sustainability and safety metrics
+- **[Module 1 Summary](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/09-corporate-summary/)** - Key takeaways and review
 
 ---
 

@@ -101,7 +101,7 @@ next: /cfa/study/04-corporate-issuers/04-corporate-restructuring/06-evaluating-d
 **Implied OHAA valuation**:
 $$EV = \frac{45B}{0.25} = BRL\ 180B$$
 $$\text{Equity value} = 180B - 32.5B\ \text{cash} = BRL\ 147.5B$$
-$$P/E = \frac{147.5B}{15.3B} = \mathbf{9.6\times}\ (\text{vs. peer median 12}\times)$$
+$$P/E = \frac{147.5B}{15.3B} = \mathbf{10.0\times}\ (\text{vs. peer median 12}\times)$$
 
 → Hapalla is acquiring at a **discount to peers** — favorable for Hapalla
 

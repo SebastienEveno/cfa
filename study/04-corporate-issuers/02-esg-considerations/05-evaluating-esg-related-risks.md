@@ -77,7 +77,7 @@ Portfolio Construction (asset allocation, scenario analysis, risk management)
 
 | Metric | Peer Group | Well (Pre-ESG) | Well (Post-ESG) |
 |--------|-----------|---------------|----------------|
-| COGS / Revenue | 13% | 13.3% | **14.5%** (+1.3%) |
+| COGS / Revenue | 13% | 13.3% | **14.6%** (+1.3%) |
 | Non-op expenses / Op income | 3% | 3% | **7.5%** (+4.5%) |
 | Revenue | — | Baseline | **–2%** (quality controversies) |
 

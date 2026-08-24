@@ -123,7 +123,7 @@ Key pro forma adjustments:
 - Combined revenues: CN + KCS revenues
 - Cost synergies: ramping $333M → $667M → $1,000M (Years 1–3)
 - Additional D&A: $800M/year amortization of acquired intangibles
-- New interest expense: $1,650M/year (on ~$19B new debt)
+- New interest expense: $1,650M/year (5.0% on $33B total post-acquisition debt)
 - New shares: +103M CN shares issued
 
 **Resulting diluted EPS:**

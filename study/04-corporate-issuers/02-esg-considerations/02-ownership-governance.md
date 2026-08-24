@@ -12,7 +12,7 @@ next: /cfa/study/04-corporate-issuers/02-esg-considerations/03-corporate-governa
 
 #### 1. Widely Held (Dispersed Ownership)
 - **Shares spread among many shareholders**
-- Common in: US, UK, Australia, Canada
+- Common in: US, UK, Australia, Ireland
 - **Agency problem**: Managers have more control; shareholders have less
 - Need for: Strong corporate governance, dividend policy, buyback signals
 
