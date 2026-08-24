@@ -86,16 +86,21 @@ Both types of arbitrage are **transitory** — once identified, investors trade 
 
 **Q1 (Which scenario includes an arbitrage opportunity?):**
 
-**Bond A**: Yield 2.5% in NYC; price $104.376 in Chicago for a 3% coupon, 10-yr bond
-**Bond B**: Yield 3.2% in Hong Kong; price RMB97.220 in Shanghai for a 3% coupon, 10-yr bond
+**Bond A**: Yield 2.5% in New York City; the same 3% annual coupon, 10-year bond sells for $104.376 per $100 face value in Chicago.
+**Bond B**: Yield 3.2% in Hong Kong SAR; the same 3% annual coupon, 10-year bond sells for RMB97.220 per RMB100 face value in Shanghai.
 
-For a 3% annual coupon, 10-year bond:
-- At YTM = 2.5%: Price > par (since coupon > yield) → consistent with $104.376
-- At YTM = 3.2%: Price < par (since coupon < yield) → should be **less than 100**, and RMB97.220 is indeed below par
+For each bond, compute the arbitrage-free price implied by the quoted yield and compare it to the price actually quoted in the other market:
 
-→ **Bond A** is the arbitrage opportunity: if the NYC market implies a price consistent with 2.5% yield, but the Chicago price ($104.376) is the SAME as what 2.5% would generate — need to check if these are **consistent** or **inconsistent**. If both markets quote a price/yield combination that's internally consistent with the SAME bond, no arbitrage exists in that pairing; if the implied prices from the two markets' quoted yields **don't match the quoted prices**, that signals arbitrage.
+$$\text{Bond A: } \frac{3}{1.025}+\frac{3}{1.025^2}+\cdots+\frac{103}{1.025^{10}} = 104.376$$
 
-> (The exercise is testing whether you can compute bond price from yield and check consistency — the takeaway is: **always verify price/yield consistency** between markets trading the *same* bond to spot the arbitrage opportunity.)
+$$\text{Bond B: } \frac{3}{1.032}+\frac{3}{1.032^2}+\cdots+\frac{103}{1.032^{10}} = 98.311$$
+
+- **Bond A**: the 2.5%-yield price ($104.376) **matches** the Chicago quote exactly → the two markets are internally consistent → **no arbitrage**.
+- **Bond B**: the 3.2%-yield price (RMB98.311) is **higher** than the RMB97.220 quoted in Shanghai → the bond is **underpriced in Shanghai relative to Hong Kong**.
+
+→ **Bond B is the arbitrage opportunity.** Buy the bond in Shanghai for RMB97.220 and sell it in Hong Kong SAR for RMB98.311 → a riskless profit of **RMB1.091 per RMB100 face value**.
+
+> **Takeaway**: always reprice the bond off the *quoted* yield in one market and compare that implied price to the price actually quoted in the other market — a mismatch is the arbitrage signal, and matching prices confirm no arbitrage.
 
 ---
 
