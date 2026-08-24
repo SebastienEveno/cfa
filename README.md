@@ -35,6 +35,19 @@ Currency exchange rate determination and the drivers of long-run economic growth
 
 ---
 
+### [Financial Statement Analysis](/cfa/study/03-financial-statement-analysis/)
+
+Intercorporate investments, employee compensation, multinational operations, financial institution analysis, evaluating report quality, and an integrated case study.
+
+- 🏛️ [Intercorporate Investments](/cfa/study/03-financial-statement-analysis/01-intercorporate-investments/01-investment-categories-and-fair-value/) — Fair value, equity method, acquisition method, and consolidation
+- 🎁 [Employee Compensation](/cfa/study/03-financial-statement-analysis/02-employee-compensation/01-types-of-compensation-and-share-based-basics/) — Share-based compensation and post-employment (DB/DC) benefit plans
+- 🌐 [Multinational Operations](/cfa/study/03-financial-statement-analysis/03-multinational-operations/01-foreign-currency-transactions/) — FX transactions, the current rate and temporal translation methods
+- 🏦 [Analysis of Financial Institutions](/cfa/study/03-financial-statement-analysis/04-analysis-of-financial-institutions/01-what-makes-financial-institutions-different/) — The CAMELS framework, and insurance company analysis
+- 🔍 [Evaluating Quality of Financial Reports](/cfa/study/03-financial-statement-analysis/05-evaluating-quality-of-financial-reports/01-conceptual-framework-and-reporting-problems/) — The Beneish model, Altman Z-score, and real fraud case studies
+- 🧩 [Integration of FSA Techniques](/cfa/study/03-financial-statement-analysis/06-integration-of-fsa-techniques/01-case-study-setup-and-dupont-analysis/) — A six-phase, end-to-end analyst case study (Nestlé)
+
+---
+
 ### [Corporate Issuers](/cfa/study/04-corporate-issuers/)
 
 Corporate financial management, capital structure, shareholder returns, ESG, and restructuring.
