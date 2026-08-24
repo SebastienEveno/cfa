@@ -2,6 +2,7 @@
 layout: page
 title: Credit Default Swaps — Basic Definitions and Concepts
 permalink: /study/06-fixed-income/05-credit-default-swaps/02-basic-definitions/
+next: /cfa/study/06-fixed-income/05-credit-default-swaps/03-cds-market-features-and-settlement/
 ---
 ## Summary: Credit Default Swaps — Basic Definitions and Concepts (CFA Level II — Fixed Income)
 

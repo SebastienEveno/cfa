@@ -25,13 +25,13 @@ The YTM is **pulled toward** the spot rate corresponding to the **largest cash f
 **Given**: $z_1 = 9\%$, $z_2 = 10\%$, $z_3 = 11\%$ (upward-sloping)
 
 **2-year bond (6% coupon, $1,000 face)**:
-$$P = \frac{60}{1.09} + \frac{1,060}{(1.10)^2} = \$965.35$$
+$$P = \frac{60}{1.09} + \frac{1,060}{(1.10)^2} = \$931.08$$
 
 - YTM = **9.97%** → lies between $z_1=9\%$ and $z_2=10\%$
 - **Closer to $z_2$** because the larger cash flow (principal + coupon) occurs in Year 2
 
 **3-year bond (5% coupon, £100 face)**:
-$$P = \frac{5}{1.09} + \frac{5}{(1.10)^2} + \frac{105}{(1.11)^3} = £87.00$$
+$$P = \frac{5}{1.09} + \frac{5}{(1.10)^2} + \frac{105}{(1.11)^3} = £85.49$$
 
 - YTM = **10.93%** → lies between $z_1=9\%$ and $z_3=11\%$
 - **Closest to $z_3$** because the largest cash flow occurs in Year 3

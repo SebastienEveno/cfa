@@ -48,6 +48,12 @@ Binomial interest rate trees, pathwise valuation, and Monte Carlo simulation.
 Callable, putable, and convertible bonds — OAS, effective duration, and key rate durations.
 
 - **[Introduction](/cfa/study/06-fixed-income/03-valuation-with-embedded-options/01-introduction/)** — Overview of bonds with embedded options
+- **[Callable and Putable Bond Value Relationships](/cfa/study/06-fixed-income/03-valuation-with-embedded-options/02-callable-putable-bond-relationships/)** — Value identities and valuation without interest rate volatility
+- **[Valuation with Interest Rate Volatility — The Binomial Tree](/cfa/study/06-fixed-income/03-valuation-with-embedded-options/03-valuation-with-interest-rate-volatility/)** — Backward induction with exercise decisions at each node
+- **[Valuing Risky Bonds and the Option-Adjusted Spread](/cfa/study/06-fixed-income/03-valuation-with-embedded-options/04-oas-and-risky-bonds/)** — Z-spread, OAS, and the OAS-volatility relationship
+- **[Effective Duration, One-Sided/Key Rate Durations, and Effective Convexity](/cfa/study/06-fixed-income/03-valuation-with-embedded-options/05-effective-duration-and-convexity/)** — Interest rate sensitivity of bonds with embedded options
+- **[Capped/Floored Floaters and Convertible Bonds](/cfa/study/06-fixed-income/03-valuation-with-embedded-options/06-capped-floored-floaters-and-convertibles/)** — Floating-rate bond caps/floors, and convertible bond analysis
+- **[Formula Summary](/cfa/study/06-fixed-income/03-valuation-with-embedded-options/07-formula-summary/)** — All embedded option valuation formulas in one place
 
 ---
 
@@ -72,3 +78,7 @@ Credit risk, structural and reduced-form models, credit spreads, and securitized
 CDS mechanics, pricing, applications, and index products.
 
 - **[Basic Definitions and Concepts](/cfa/study/06-fixed-income/05-credit-default-swaps/02-basic-definitions/)** — CDS structure, protection buyer/seller, and credit events
+- **[Market Features and Settlement](/cfa/study/06-fixed-income/05-credit-default-swaps/03-cds-market-features-and-settlement/)** — Succession/restructuring events, physical vs. cash settlement, and the ISDA auction
+- **[Index Products and Pricing](/cfa/study/06-fixed-income/05-credit-default-swaps/04-cds-index-products-and-pricing/)** — CDX/iTraxx roll conventions, the upfront premium formula, and the credit curve
+- **[Valuation Changes and Applications](/cfa/study/06-fixed-income/05-credit-default-swaps/05-cds-valuation-changes-and-applications/)** — Mark-to-market changes, managing credit exposure, and basis trading
+- **[Formula Summary](/cfa/study/06-fixed-income/05-credit-default-swaps/06-formula-summary/)** — All CDS pricing and valuation formulas in one place

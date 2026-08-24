@@ -85,7 +85,7 @@ Observed credit spreads imply risk-neutral default probabilities that are **much
 
 | Recovery Rate | LGD | CVA | Fair Value | YTM | Credit Spread |
 |--------------|-----|-----|-----------|-----|--------------|
-| **40%** | Lower | 3.7019 | ~100.84 | 3.35% | **1.10%** |
+| **40%** | Lower | 5.1241 | 98.4209 | 3.85% | **1.10%** |
 | **30%** | Higher | 5.9781 | 97.5670 | 4.05% | **1.30%** |
 
 **Reducing recovery rate from 40% → 30%** increases the credit spread by ~20 bps — illustrating how notching works:

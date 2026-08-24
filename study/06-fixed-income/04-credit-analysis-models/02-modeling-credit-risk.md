@@ -2,6 +2,7 @@
 layout: page
 title: Modeling Credit Risk and the Credit Valuation Adjustment
 permalink: /study/06-fixed-income/04-credit-analysis-models/02-modeling-credit-risk/
+prev: /cfa/study/06-fixed-income/04-credit-analysis-models/01-introduction/
 next: /cfa/study/06-fixed-income/04-credit-analysis-models/03-credit-scores-credit-ratings/
 ---
 ## Summary: Modeling Credit Risk and the Credit Valuation Adjustment (CFA Level II — Fixed Income)
