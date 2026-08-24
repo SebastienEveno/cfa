@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Module 1 Wrap-Up — Analysis of Dividends & Share Repurchases
-permalink: /study/04-corporate-issuers/01-dividends-and-share-repurchases/07-corporate-summary/
-prev: /cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/06-dividend-safety/
+permalink: /study/04-corporate-issuers/01-dividends-and-share-repurchases/09-corporate-summary/
+prev: /cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/08-dividend-safety/
 next: /cfa/study/04-corporate-issuers/02-esg-considerations/01-esg-introduction/
 ---
 
@@ -22,7 +22,7 @@ next: /cfa/study/04-corporate-issuers/02-esg-considerations/01-esg-introduction/
 
 **3. Share Repurchases**
 - **Methods**: Open market most common; Dutch auction and fixed tender for speed
-- **EPS impact**: Accretive only if shares bought below intrinsic value
+- **EPS impact**: Depends on financing — cash-funded typically accretive; debt-funded depends on after-tax cost of debt vs. earnings yield
 - **Flexibility advantage**: Can be suspended; don't create commitment like dividends
 
 **4. Valuation Equivalence**

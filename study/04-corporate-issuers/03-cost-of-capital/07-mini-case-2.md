@@ -88,25 +88,25 @@ $$r_d(1-t) = 8.87\% \times (1 - 0.20) = \mathbf{7.10\%}$$
 $$\beta_{asset} = \frac{\beta_{equity}}{1 + (1-t) \times D/E} = \frac{1.25}{1 + (0.75)(0.3025)} = \frac{1.25}{1.2269} = 1.0188$$
 
 **Step 2**: Re-lever for Precision (tax rate 20%, D/E 0.212):
-$$\beta_{Precision} = \beta_{asset} \times [1 + (1-t) \times D/E] = 1.0188 \times [1 + (0.80)(0.212)] = 1.1908$$
+$$\beta_{Precision} = \beta_{asset} \times [1 + (1-t) \times D/E] = 1.0188 \times [1 + (0.80)(0.212)] = 1.1916$$
 
 **Step 3**: Apply extended CAPM + CRP:
-$$r_e = r_f + \beta \times ERP + SP + SCRP + CRP$$
-$$r_e = 5.41\% + 1.1908 \times 6\% + 5\% + 6\% + 2\% = \mathbf{25.56\%}$$
+$$r_e = r_f + \beta \times ERP + SP + IP + SCRP + CRP$$
+$$r_e = 5.41\% + 1.1916 \times 6\% + 5\% + 1\% + 6\% + 2\% = \mathbf{26.56\%}$$
 
 #### Build-Up Approach
 
 $$r_e = r_f + ERP + SP + IP + SCRP + CRP$$
 $$r_e = 5.41\% + 6\% + 5\% + 1\% + 6\% + 2\% = \mathbf{25.41\%}$$
 
-> Both methods yield very similar results (~25.4–25.6%) — good cross-check.
+> Both methods yield reasonably similar results (~25.4–26.6%) — good cross-check.
 
 ---
 
 ### Step 4: WACC Calculation (Build-Up)
 
 $$WACC = w_d \times r_d(1-t) + w_e \times r_e$$
-$$WACC = 0.1749 \times 7.10\% + 0.8251 \times 25.41\% = \mathbf{21.13\%}$$
+$$WACC = 0.1749 \times 7.10\% + 0.8251 \times 25.41\% = \mathbf{22.21\%}$$
 
 ---
 

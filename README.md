@@ -52,7 +52,7 @@ Intercorporate investments, employee compensation, multinational operations, fin
 
 Corporate financial management, capital structure, shareholder returns, ESG, and restructuring.
 
-- 💰 [Dividends & Share Repurchases](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/02-payout-policies/) — Payout policy, buybacks, and dividend safety
+- 💰 [Dividends & Share Repurchases](/cfa/study/04-corporate-issuers/01-dividends-and-share-repurchases/01-dividend-forms-and-effects/) — Dividend policy theories, payout policy, buybacks, and dividend safety
 - 🌱 [ESG Considerations](/cfa/study/04-corporate-issuers/02-esg-considerations/01-esg-introduction/) — Governance, ownership structure, and ESG risk
 - 📈 [Cost of Capital](/cfa/study/04-corporate-issuers/03-cost-of-capital/01-introduction/) — WACC, cost of equity and debt, equity risk premium
 - 🏢 [Corporate Restructuring](/cfa/study/04-corporate-issuers/04-corporate-restructuring/01-introduction/) — Acquisitions, divestitures, spin-offs, and restructuring analysis

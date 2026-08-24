@@ -151,7 +151,7 @@ A special case combining **investment + restructuring + eventual divestment**.
 4. **Exit price** (higher = better)
 
 **Hilton Hotels LBO (Blackstone, 2007–2018):**
-- Acquired for $26B ($14.5B debt + $5.5B equity)
+- Acquired for $26B ($14.5B new debt + $5.5B equity + $6B assumed debt)
 - Blackstone replaced management, pursued franchising strategy, divested flagship properties
 - Re-listed 2013; Blackstone gradually sold 2013–2018
 - **Net profit: $11B+ on $5.5B equity investment** over 11 years
